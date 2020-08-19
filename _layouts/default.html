@@ -22,7 +22,7 @@
             <span class="icon-search"></span>
             <form method="post" action="/404.html" role="search">
                 <span class="search-box">
-         <input type="text" class="input" id="cb-search-content" required="true" placeholder="Search Something" maxlength="30" autocomplete="off">
+         <input type="text" class="input" id="cb-search-content" required="true" placeholder="Type something... " maxlength="30" autocomplete="off">
                 </span>
             </form>
         </div>
@@ -30,7 +30,7 @@
             <span class="icon-menu cross"><span class="middle"></span></span>
             <ul>
                {% for link in site.links %}           
-                <li><a href="{{ link.url }}?liberxue" title="访问 {{  link.name }}" data-hover="{{link.name}}">{{ link.name }}</a></li>
+                <li><a href="{{ link.url }}?samshowalterblog" title="{{  link.name }}" data-hover="{{link.name}}">{{ link.name }}</a></li>
                  {% endfor %}
             </ul>
         </div>
