@@ -10,7 +10,7 @@ paginate: 15
 paginate_path: "liberxuepage:num"
 gems: [jekyll-paginate]
 links:
-  - name:         Something new
+  - name:         Home
     url:          /
     external:     false
   - name:         Books
