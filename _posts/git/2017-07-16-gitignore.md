@@ -16,8 +16,10 @@ tags:
 
 # 创建gitignore文件
 
-{% highlight javascript %}
-console.log(test);
+{% highlight python %}
+import pandas as pd
+
+print("hello")
 {% endhighlight %}
 
 ## 注释Git忽略规则
