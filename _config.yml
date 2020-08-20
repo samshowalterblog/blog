@@ -3,19 +3,14 @@ title:            "Sam Showalter's Blog"
 description:      "My Blog"
 url:              https://samshowalterblog.github.io # 域名
 signoff:          "Sam Showalter" # Your name
-facebook_appid:   #liberxue
-#google_analytics: UA-101222464-1
-share:            true 
-# 分页
+#share:            true 
+
 paginate: 15
 paginate_path: "liberxuepage:num"
 gems: [jekyll-paginate]
 links:
-  - name:         Home
+  - name:         Posts
     url:          /
-    external:     false
-  - name:         Books
-    url:          /book
     external:     false
   - name:         Archive
     url:          /archives
