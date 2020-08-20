@@ -1,8 +1,7 @@
 ---
----
 layout: blog
 istop: true
-title: "Git忽略规则及.gitignore规则正确姿势"
+title: "New Post"
 background-image: https://i.ibb.co/4FNYYqT/Airbender.png
 date:  2017-07-16 23:45:56
 category: git
@@ -10,7 +9,7 @@ tags:
 - github
 - git
 - gitignore
-- Git忽略规则
+
 ---
 
 # 实现需求
