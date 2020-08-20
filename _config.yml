@@ -17,9 +17,6 @@ links:
   - name:         Books
     url:          /book
     external:     false
-  - name:         Road
-    url:          /road
-    external:     false
   - name:         Archive
     url:          /archives
     external:     false
