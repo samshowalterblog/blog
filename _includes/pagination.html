@@ -42,9 +42,14 @@
          {% endif %}
       </li>
       <li>
+         {% if paginator.page == paginator.total_pages %}
+         <span>Last</span>
+         {% else %}
          <a href="/liberxuepage{{paginator.total_pages}}?liberxue" data-hover="Last">
          <span>Last</span>
          </a>
+         {% endif %}
+         
       </li>
       <li class="current">
          <span>Page {{paginator.page}} / {{paginator.total_pages}}</span>
