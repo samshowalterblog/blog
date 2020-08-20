@@ -8,7 +8,7 @@ facebook_appid:   #liberxue
 share:            true 
 # 分页
 paginate: 15
-paginate_path: "samshowalterblogpage:num"
+paginate_path: "liberxuepage:num"
 gems: [jekyll-paginate]
 links:
   - name:         Home
