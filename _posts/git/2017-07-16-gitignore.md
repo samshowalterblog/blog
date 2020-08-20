@@ -16,11 +16,12 @@ tags:
 
 # 创建gitignore文件
 
-```
-touch .gitignore
-```
+{% highlight javascript %}
+console.log(test);
+{% endhighlight %}
+
 ## 注释Git忽略规则
-```
+```bash
 # 此为注释 – 将被 Git 忽略
  
 *.a       # 忽略所有 .a 结尾的文件
