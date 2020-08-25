@@ -780,7 +780,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     float: left;
     width: 33.33333%;
     height: auto;
-    max-height: 380px;
+    /*max-height: 380px;*/
     max-width: 400px;
     padding: 18px;
     align-items: center;
