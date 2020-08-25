@@ -1287,17 +1287,18 @@ pre code::after {
 
 .post-title {
     font-size: 21px;
+    padding:0 0 0 15px;
 }
 
 .post-data, .post-data a {
     font-size: 13px;
     color: #5f5f5f;
-    margin: 7px 15px 0 10px;
+    margin: 7px 15px 0 15px;
 }
 
 .post-tags {
     margin: 0;
-    padding: 5px 0px 15px 10px;
+    padding: 5px 0px 15px 15px;
     border-bottom: 1px solid #e0e0e0;
 }
 
