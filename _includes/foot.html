@@ -2,7 +2,7 @@
    <div class="footer-social">
       <div class="footer-container clearfix">
          <div class="social-list">
-            <a class="social github" target="blank" href="https://github.com/SamShowalter" data-hover = "Github" title="Github">GitHub</a>
+            <a class="social github" target="blank" href="https://github.com/SamShowalter" title="Github">GitHub</a>
             <a class="social twitter" target="blank" href="http://samshowalter.github.io" title="Portfolio" >Website</a>
             <a class="social stackoverflow" target="blank" href="https://www.linkedin.com/in/samuelrshowalter/" title="LinkedIn">LinkedIn</a>
             <a class="social rss" target="blank" href="/feed.xml"title="RSS">RSS</a>
@@ -17,24 +17,22 @@
                <img src="{{ site.url }}/style/images/triangle.png"   title="Sam Showalter's blog" data-hover="Sam Showalter's Blog" /> </a>
                <div class="info-text">
                   <p>Powered by Jekyll</p>
-                  <p>&copy; 2020 <a href="https://samshowalter.github.io"  title=" Sam Showalter" data-hover="Sam Showalter">Sam Showalter</a></p>
+                  <p>&copy; 2020 <a href="https://samshowalter.github.io"  title="Sam Showalter" data-hover="Sam Showalter">Sam Showalter</a></p>
                   <p>Total Posts: {{paginator.total_posts}}</p>
                </div>
             </div>
          </div>
          <div class="meta-item meta-posts">
             <h3 class="meta-title">Featured Posts</h3>
-            <!--置顶-->
             {% for post in site.posts limit:15 %}
             {% if post.istop %}
             <li><a href="{{ post.url }}" title="Post title {{ post.title }}" data-hover="{{ post.title }}">{{ post.title }}</a></li>
             {% endif %}
             {% endfor %}
-            <!--置顶-->
          </div>
          <div class="meta-item meta-comments">
             <h3 class="meta-title">Latest Posts</h3>
-            {% for post in site.posts limit:14 %}        
+            {% for post in site.posts limit:5 %}        
             {% if post.book %}
             <li><a href="{{ post.url }}" title=" {{ post.title }}" data-hover="{{ post.title }}">{{ post.title }}</a></li>
             {% endif %}
