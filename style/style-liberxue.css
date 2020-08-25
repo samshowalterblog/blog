@@ -1287,18 +1287,18 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 
 .post-title {
     font-size: 21px;
-    padding:0 0 0 15px;
+    padding:0 0 0 25px;
 }
 
 .post-data, .post-data a {
     font-size: 13px;
     color: #5f5f5f;
-    margin: 7px 15px 0 15px;
+    margin: 7px 15px 0 25px;
 }
 
 .post-tags {
     margin: 0;
-    padding: 5px 0px 15px 15px;
+    padding: 5px 0px 15px 25px;
     border-bottom: 1px solid #e0e0e0;
 }
 
@@ -2233,6 +2233,11 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     .post-page .post-content .post-tags {
         display: inherit;
     }
+
+    .post-tags .post-title .post-data
+    {
+        margin-left: 15px;
+    }
 }
 
 @media (max-width: 580px) {
@@ -2295,5 +2300,10 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 
     .post-onelist-item-container .onelist-item-thumb {
         min-height: 180px;
+    }
+
+    .post-tags .post-title .post-data
+    {
+        margin-left: 15px;
     }
 }
