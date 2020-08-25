@@ -3,7 +3,7 @@ layout: blog
 istop: true
 title: "New Post"
 background-image: https://i.ibb.co/4FNYYqT/Airbender.png
-date:  2017-07-16 23:45:56
+date:  2017-07-16
 category: git
 tags:
 - github
