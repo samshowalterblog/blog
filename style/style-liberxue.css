@@ -1054,7 +1054,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 .post-header-thumb-container {
     position: relative;
     top: 100px;
-    max-width: 2024px;
+    max-width: 1024px;
     margin: 0 auto;
     -webkit-animation: auto;
     animation: fade-in;
