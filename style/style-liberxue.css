@@ -539,7 +539,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     top: 30%;
     display: block;
     width: auto;
-    max-width: 50%;
+    max-width: 70%;
     height: 22px;
     text-decoration: none;
 }
