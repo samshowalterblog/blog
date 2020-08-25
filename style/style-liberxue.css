@@ -2118,7 +2118,7 @@ pre code::after {
     }
 
     .post-page {
-        padding: 100px 25px 0;
+        padding: 100px 15px 0;
     }
 
     .common-page .post-list-item {
@@ -2183,7 +2183,7 @@ pre code::after {
 
     .post-list-item {
         width: 100%;
-        padding: 10px 20px;
+        padding: 10px 10px;
     }
 
     .post-list-item:first-child {
