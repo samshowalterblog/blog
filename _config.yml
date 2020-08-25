@@ -6,7 +6,7 @@ signoff:          "Sam Showalter" # Your name
 #share:            true 
 
 paginate: 15
-paginate_path: "liberxuepage:num"
+paginate_path: "showalterpage:num"
 gems: [jekyll-paginate]
 links:
   - name:         Posts
