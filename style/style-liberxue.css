@@ -1152,13 +1152,13 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     line-height: 20px;
     margin: 0;
     padding: 1.3em;
-    color: #dcdcdc;
+    color: #000000;
     background-color: #eef;
 }
 
 pre code::after {
     font-size: 1rem;
-    color: #FFF;
+    color: #000000;
     position: absolute;
     top: 5px;
     right: 10px;
