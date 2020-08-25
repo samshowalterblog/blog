@@ -5,7 +5,7 @@ description: "This is my blog"
 date: 2020-08-24
 tags: 
 - Computer Science
-- Lizzy is real cute
+
 redirect_from:
   - /about/
 ---
