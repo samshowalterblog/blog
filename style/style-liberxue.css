@@ -535,6 +535,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     font-size: 22px;
     line-height: 22px;
     position: absolute;
+    text-align: left;
     top: 30%;
     display: block;
     width: auto;
