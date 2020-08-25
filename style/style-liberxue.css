@@ -2131,7 +2131,7 @@ pre code::after {
 
     .common-page .post-list-item {
         width: 100%;
-        padding: 10px 10px;
+        padding: 10px 20px;
     }
 
     .footer-social {
@@ -2191,7 +2191,7 @@ pre code::after {
 
     .post-list-item {
         width: 100%;
-        padding: 10px 10px;
+        padding: 10px 20px;
     }
 
     .post-list-item:first-child {
