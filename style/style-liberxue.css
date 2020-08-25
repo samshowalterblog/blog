@@ -1275,6 +1275,8 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 .post-tags {
     margin: 0;
     padding: 5px 0px 15px 25px;
+    /*made this auto, can delete*/
+    width: auto;
     border-bottom: 1px solid #e0e0e0;
 }
 
