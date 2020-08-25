@@ -1509,6 +1509,7 @@ pre code::after {
     width: 68%;
     line-height: 30px;
     max-height: 10px;
+    padding-left: 30px;
     margin-right: auto !important;
     margin-left: auto !important;
     text-align: right;
