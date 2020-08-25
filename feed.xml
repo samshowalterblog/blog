@@ -13,7 +13,7 @@ layout: null
         <title>{{ post.title }}</title>
         <category>{{ post.category }}</category>
         <description>{{ post.content | strip_html | strip_newlines | truncate: 100 }}</description>
-        <pubDate>{{ post.date | date: "%F %H:%M:%S " }}</pubDate>
+        <pubDate>{{ post.date | date: "%F " }}</pubDate>
         <link>{{ site.url }}{{ post.url }}</link>
         <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
       </item>
