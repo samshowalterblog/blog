@@ -1509,7 +1509,6 @@ pre code::after {
     width: 68%;
     line-height: 30px;
     max-height: 10px;
-    padding-left: 30px;
     margin-right: auto !important;
     margin-left: auto !important;
     text-align: right;
@@ -2040,6 +2039,9 @@ pre code::after {
     }
 
     .main-content {
+
+        width: 90%; 
+        /*used to be 65%*/
         margin: 0 auto;
     }
 
@@ -2210,6 +2212,7 @@ pre code::after {
     }
 
     .main-content {
+        width: 90%; 
         margin: 0 auto;
     }
 
