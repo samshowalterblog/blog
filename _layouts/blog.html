@@ -43,8 +43,6 @@
                </h1>
                <div class="post-data">  
                   <time datetime="{{ page.date | date: '%F'}}" itemprop="datePublished"> Release Time: {{ page.date | date: "%F"}}</time>
-                  <a href="/tags#{{ page.category }}" title="{{ page.category }}" data-hover="Blog Categories: {{ page.category }}">Blog Categories: {{ page.category }}</a>
-                  <a href="#read"> Comments: comments</a> 
                </div>
                <div class="post-tags">
                   {% unless page.tags == empty %}
