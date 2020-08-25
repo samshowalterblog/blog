@@ -25,6 +25,14 @@ links:
 
 #permalink:        /:categories/:title.html
 permalink: /:year/:month/:day/:title.html
+
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto-ids: true
+  syntax_highlighter: rouge
+
 defaults:
   - values:
       layout: "default"
