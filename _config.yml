@@ -20,7 +20,7 @@ links:
     external:     false
   - name:         About
     url:          https://samshowalter.github.io
-    external:     false
+    external:     true
 # ------------ CONFIGURABLE END ------------
 
 #permalink:        /:categories/:title.html
