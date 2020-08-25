@@ -1094,7 +1094,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 }
 
 .post-content p {
-    padding-top: 10px;
+    /*padding-top: 10px;*/
     font-size: 16px;
 /*    word-wrap: break-word;
     word-break: break-word;
@@ -2238,7 +2238,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     }
 
     .post-list-item:first-child {
-        padding-top: 20px;
+        padding-top: 10px;
     }
 
     .archive-page .post-list-item:first-child {
@@ -2246,7 +2246,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     }
 
     .archive-page .post-list-item:last-child {
-        padding-bottom: 0;
+        padding-bottom: 20px;
     }
 
     .common-page .post-list-item:first-child {
