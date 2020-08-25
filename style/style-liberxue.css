@@ -2001,7 +2001,8 @@ pre code::after {
     }
 
     .post-list-item {
-        width: 50%;
+        width: 33.3333%;
+        /*width used to be 50%*/
         padding: 10px;
     }
 
