@@ -4,8 +4,8 @@ istop: true
 title: "Test Post"
 background-image: https://i.ibb.co/4FNYYqT/Airbender.png
 date:  2017-07-16
-category: book
-thumb: code
+category: machine-learning
+thumb: book
 tags:
 - github
 - git
