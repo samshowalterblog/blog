@@ -752,7 +752,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 }
 
 .post-list-item {
-    float: left;
+    float: center;
     width: 33.33333%;
     height: auto;
     /*max-height: 380px;*/
