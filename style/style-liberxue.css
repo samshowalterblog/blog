@@ -2015,7 +2015,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 
 @media (max-width: 1000px) {
     /*all used to be 280*/
-    .post-header-thumb {
+    /*.post-header-thumb {
         height: 248px;
     }
 
@@ -2033,7 +2033,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 
     .post-header-thumb-container {
         top: 80px;
-    }
+    }*/
 }
 
 @media (max-width: 880px) {
@@ -2042,7 +2042,6 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     }
 
     .archive-page {
-        padding: 90px 0 20px;
     }
 
     .post-title {
