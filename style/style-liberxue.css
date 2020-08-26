@@ -423,7 +423,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     top: 0;
 }
 
-.bg-ico-book {
+/*.bg-ico-book {
     background-position: 0 0 !important;
 }
 
@@ -461,7 +461,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 
 .bg-ico-lock {
     background-position: 0 -360px !important;
-}
+}*/
 
 /* ==========================================================================
    #header
