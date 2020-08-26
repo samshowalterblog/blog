@@ -2015,7 +2015,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 
 @media (max-width: 1000px) {
     /*all used to be 280*/
-    .post-header-thumb {
+/*    .post-header-thumb {
         height: 233px;
     }
 
@@ -2029,7 +2029,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 
     .post-header-thumb-op {
         height: 233px;
-    }
+    }*/
 
     .post-header-thumb-container {
         top: 80px;
@@ -2071,7 +2071,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
         margin: 25px 0 30px;
     }
 
-    .post-header-thumb {
+    /*.post-header-thumb {
         height: 210px;
     }
 
@@ -2081,7 +2081,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 
     .post-header-thumb-cover {
         height: 210px;
-    }
+    }*/
 
     .post-header-thumb-container {
         top: 60px;
@@ -2108,7 +2108,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
         max-width: 100%;
     }
 
-    .post-header-thumb {
+    /*.post-header-thumb {
         height: 190px;
     }
 
@@ -2118,7 +2118,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 
     .post-header-thumb-cover {
         height: 190;
-    }
+    }*/
 
     .post-header-thumb-container {
         top: 40px;
