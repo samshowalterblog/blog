@@ -427,6 +427,10 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     background-position: 0 0 !important;
 }
 
+.bg-ico-book {
+    background-position: 0 0 !important;
+}
+
 .bg-ico-game {
     background-position: 0 -40px !important;
 }
