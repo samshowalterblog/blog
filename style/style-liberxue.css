@@ -2016,15 +2016,19 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 @media (max-width: 1000px) {
     /*all used to be 280*/
     .post-header-thumb {
-        height: 230px;
+        height: 233px;
+    }
+
+    .post-title {
+    padding:15 0 0 25px;
     }
 
     .post-header-thumb-cover {
-        height: 230px;
+        height: 233px;
     }
 
     .post-header-thumb-op {
-        height: 230px;
+        height: 233px;
     }
 
     .post-header-thumb-container {
