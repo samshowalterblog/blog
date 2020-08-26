@@ -2055,11 +2055,11 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     }
 
     .post-list-item:nth-child(odd) {
-        padding-left: 20px;
+        /*padding-left: 20px;*/
     }
 
     .post-list-item:nth-child(even) {
-        padding-right: 20px;
+        /*padding-right: 20px;*/
     }
 
     .lists-navigator {
@@ -2217,10 +2217,10 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
         display: inherit;
     }
 
-    .post-tags .post-title .post-data
+/*    .post-tags .post-title .post-data
     {
         margin-left: 15px;
-    }
+    }*/
 }
 
 @media (max-width: 580px) {
@@ -2285,8 +2285,8 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
         min-height: 180px;
     }
 
-    .post-tags .post-title .post-data
+/*    .post-tags .post-title .post-data
     {
         margin-left: 15px;
-    }
+    }*/
 }
