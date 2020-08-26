@@ -2111,15 +2111,15 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
         max-width: 100%;
     }
 
-    .post-header-thumb {
+/*    .post-header-thumb {
         height: 220px;
     }
-
-/*    .post-title {
+*/
+    /*.post-title {
     padding:15 0 0 25px;
-    }*/
+    }
 
-    /*.post-header-thumb-op {
+    .post-header-thumb-op {
         height: 190;
     }
 
