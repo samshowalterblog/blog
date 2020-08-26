@@ -2016,15 +2016,15 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 @media (max-width: 1000px) {
     /*all used to be 280*/
     .post-header-thumb {
-        height: 250px;
+        height: 230px;
     }
 
     .post-header-thumb-cover {
-        height: 250px;
+        height: 230px;
     }
 
     .post-header-thumb-op {
-        height: 250px;
+        height: 230px;
     }
 
     .post-header-thumb-container {
@@ -2068,15 +2068,15 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     }
 
     .post-header-thumb {
-        height: 250px;
+        height: 210px;
     }
 
     .post-header-thumb-op {
-        height: 250px;
+        height: 210px;
     }
 
     .post-header-thumb-cover {
-        height: 250px;
+        height: 210px;
     }
 
     .post-header-thumb-container {
@@ -2105,15 +2105,15 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     }
 
     .post-header-thumb {
-        height: 220px;
+        height: 190px;
     }
 
     .post-header-thumb-op {
-        height: 220px;
+        height: 190;
     }
 
     .post-header-thumb-cover {
-        height: 220px;
+        height: 190;
     }
 
     .post-header-thumb-container {
