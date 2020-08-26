@@ -2014,16 +2014,17 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 }
 
 @media (max-width: 1000px) {
+    /*all used to be 280*/
     .post-header-thumb {
-        height: 280px;
+        height: 250px;
     }
 
     .post-header-thumb-cover {
-        height: 280px;
+        height: 250px;
     }
 
     .post-header-thumb-op {
-        height: 280px;
+        height: 250px;
     }
 
     .post-header-thumb-container {

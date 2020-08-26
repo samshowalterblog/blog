@@ -4,7 +4,7 @@ istop: true
 title: "New Post"
 background-image: https://i.ibb.co/4FNYYqT/Airbender.png
 date:  2017-07-16
-category: git
+category: machine-learning
 thumb: code
 latest: true
 tags:
