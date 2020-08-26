@@ -2074,7 +2074,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
         margin: 25px 0 30px;
     }
 
-    .post-header-thumb {
+    /*.post-header-thumb {
         height: 233px;
     }
 
@@ -2088,7 +2088,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 
     .post-header-thumb-container {
         top: 60px;
-    }
+    }*/
 
     .footer-meta .footer-container {
         padding: 0;
@@ -2111,7 +2111,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
         max-width: 100%;
     }
 
-    .post-header-thumb {
+    /*.post-header-thumb {
         height: 190px;
     }
 
@@ -2129,7 +2129,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 
     .post-header-thumb-container {
         top: 40px;
-    }
+    }*/
 
     .post-page {
         padding: 30px 25px 0;
