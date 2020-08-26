@@ -2016,7 +2016,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 @media (max-width: 1000px) {
     /*all used to be 280*/
     .post-header-thumb {
-        height: 233px;
+        height: 248px;
     }
 
     .post-title {
@@ -2024,11 +2024,11 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     }
 
     .post-header-thumb-cover {
-        height: 233px;
+        height: 248px;
     }
 
     .post-header-thumb-op {
-        height: 233px;
+        height: 248;
     }
 
     .post-header-thumb-container {
