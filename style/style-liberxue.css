@@ -1991,13 +1991,13 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 }
 
 .footer-meta .meta-comments li {
-    font-size: 13px;
+    font-size: 15px;
     line-height: 25px;
     display: block;
     overflow: hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
-    color: #5f5f5f;
+    color: #767676;
 }
 
 .footer-meta .meta-comments li a {
