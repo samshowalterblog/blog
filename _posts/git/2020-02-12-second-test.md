@@ -6,7 +6,6 @@ background-image: https://i.ibb.co/4FNYYqT/Airbender.png
 date:  2020-07-16
 category: ML
 thumb: graduation
-latest:false
 tags:
 - github
 - git
