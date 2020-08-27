@@ -3,7 +3,7 @@ layout: blog
 istop: true
 title: "The PhD Experiment"
 background-image: https://i.ibb.co/nsT0p0g/graduation.jpg" 
-date:  2017-08-28
+date:  2020-08-28
 category: PhD
 thumb: graduation
 latest: true
