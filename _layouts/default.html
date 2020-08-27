@@ -16,7 +16,7 @@
             <a href="/?showalterblog" title="{{  site.title }}" class="navbar-logo">&nbsp;&nbsp;&nbsp;<img src="{{ site.url }}/style/images/triangle.png"> The PhD Experiment </a>
             <div class="navbar-menu">
                {% for link in site.links %}             
-               <a href="{{ link.url }}?showalterblog"  title="{{  link.name }}" data-hover="{{link.name}}">{{ link.name }}</a>
+               <a href="{{ link.url }}"  title="{{  link.name }}" data-hover="{{link.name}}">{{ link.name }}</a>
                {% endfor %}
             </div>
             <div class="navbar-search" onclick="">
