@@ -9,9 +9,9 @@ thumb: graduation
 latest: true
 tags:
 - PhD
-- Computer Science
-- Machine Learning
-- Artificial Intelligence
+- computer-science
+- machine-learning
+- artificial-intelligence
 ---
 
 
