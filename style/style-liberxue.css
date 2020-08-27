@@ -2243,6 +2243,11 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
         padding: 80px 0 0;
     }
 
+    .sharethis-inline-share-buttons
+    {
+        display: inline-block;
+    }
+
     .stn-btn
     {
         display: inline-block;
