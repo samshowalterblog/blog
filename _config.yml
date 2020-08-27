@@ -19,7 +19,7 @@ links:
     url:          /tags
     external:     false
   - name:         About
-    url:          https://samshowalter.github.io
+    url:          https://samshowalter.github.io/#blog
     external:     true
 # ------------ CONFIGURABLE END ------------
 
