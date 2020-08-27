@@ -8,9 +8,10 @@ category: PhD
 thumb: graduation
 latest: true
 tags:
-- github
-- git
-- gitignore
+- PhD
+- Computer Science
+- Machine Learning
+- Artificial Intelligence
 ---
 
 
