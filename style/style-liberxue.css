@@ -2244,6 +2244,23 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
         padding: 80px 0 0;
     }
 
+    .post-title {
+    font-size: 25px;
+    padding:0 0 0 25px;
+    }
+
+    .post-tags a{
+        font-size: 11px;
+        font-weight: 600;
+        display: inline-block;
+        margin: 8px 8px 0 0;
+        padding: 0 15px;
+        -webkit-transition-duration: 400ms;
+        transition-duration: 400ms;
+        text-decoration: none !important;
+        letter-spacing: 0;
+    }
+
     .archive-page {
         padding: 80px 0 20px;
     }
