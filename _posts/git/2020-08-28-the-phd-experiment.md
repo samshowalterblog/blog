@@ -1,11 +1,11 @@
 ---
 layout: blog
 istop: true
-title: "New Post"
-background-image: https://i.ibb.co/4FNYYqT/Airbender.png
-date:  2017-07-16
-category: machine-learning
-thumb: code
+title: "The PhD Experiment"
+background-image: https://i.ibb.co/nsT0p0g/graduation.jpg" 
+date:  2017-08-28
+category: PhD
+thumb: graduation
 latest: true
 tags:
 - github
