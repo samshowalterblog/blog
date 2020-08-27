@@ -732,7 +732,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     -webkit-animation: fade-in .5s;
     animation: fade-in;
     animation-duration: .5s;
-    /*width: 80%; */
+    width: 80%; 
     /*used to be 65%*/
 }
 
@@ -1399,6 +1399,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 }
 
 .archive-page {
+    width: 100%;
     padding: 40px 20px 40px;
 }
 
