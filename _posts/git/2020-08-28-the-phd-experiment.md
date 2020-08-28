@@ -31,7 +31,7 @@ tags:
 
 Interest in Machine learning has exploded in the last decade. If you are reading this, then you likely share that interest as well. The field is *exciting*. Teaching a machine to do human (or *super* human) tasks has a clear and immediate impact on society. Plus, it's just plain cool to watch a program identify your face on video or recommend a new TV show.
 
-However, the path to entering this field still remains obscure. *Why*? Companies are begging for ML talent. Colleges and companies alike seem to be conjuring up new Data Science curricula every week. Companies have been built around ML competitions, certifications, software, you name it. Yet, questions like:
+However, the path to entering this field still remains obscure. *Why*? Companies are begging for ML talent. Colleges seem to be drawing up new Data Science courses every week. Companies have been built around ML competitions, certifications, software, you name it. Yet, questions like:
 
 - What does it take to get a top-tier machine learning job?
 - How do I learn machine learning if I am no longer in school and want to switch jobs?
