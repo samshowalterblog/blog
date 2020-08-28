@@ -66,7 +66,7 @@ I am a first-year PhD student in machine learning at UC Irvine in Padhraic Smyth
 <!-- --------------------------------------------------------------------------------- -->
 
 <a name = "path"></a>
-### My Non-traditional Path to Machine Learning
+### My non-traditional path to Machine Learning
 
 When I was working as a consultant, the single question I got asked the most was: *"how did you break into Machine Learning"*? To be honest, I was never sure of what to say. I'd usually start by mentioning my interest in math, which I studed in college. However, I did not start coding until I was a junior and enrolled in my first computer science course. Even my job as a consultant was not explicitly in machine learning, nor was any of my coursework in school. 
 
@@ -77,7 +77,7 @@ Now that I am learning machine learning in a more structured environment, I felt
 <!-- --------------------------------------------------------------------------------- -->
 
 <a name = "coming-up"></a>
-### Coming Up
+### Coming up
 
 In the next few weeks, I will be releasing a post about the Machine Learning opportunities available for people with different levels of education, from no college the way up to a PhD. It will also cover my personal experience with applying for a PhD, including everything I learned about how to determine a good advisor, narrow a list of schools, and prepare a strong application.
 
