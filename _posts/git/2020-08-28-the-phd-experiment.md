@@ -28,7 +28,7 @@ tags:
 <a name = "welcome"></a>
 ### Welcome 
 
-Two weeks ago, I started a PhD in computer science with a focus on machine learning (ML), a dream of mine for years. 
+Two weeks ago, I started a PhD in computer science with a focus on machine learning (ML), a dream of mine for years. My reasons for applying and enrolling this year are numerous, but above all I wanted to demystify the field I am so passionate about.
 
 Machine learning has been exploding in the last decade, yet the path to entering this field still remains obscure. *Why*? Companies are begging for ML talent. Colleges and companies alike seem to be conjuring up new Data Science curricula every week. Companies have been built around ML competitions, certifications, software, you name it. Yet, questions like:
 
@@ -48,13 +48,13 @@ In this blog I will talk about my personal (roundabout) path to machine learning
 <a name = "what-write"></a>
 ### What will I write about?
 
-I started this blog primarily for personal benefit. Just like most, I do not have all the answers when it comes to machine learning. However, over time I have picked up little insights from my experience with the field and want to share those. I also intend to document my progression as a PhD student to give future PhD students an explicit, of what to expect.
+I started this blog primarily for personal benefit. Just like most, I do not have all the answers when it comes to machine learning. However, over time I have picked up little insights from my experience that might be worth sharing. I also intend to document my progression as a PhD student and give future PhD students an explicit, chronological record of what to expect.
 
 Accordingly, my posts will be roughly grouped into the following categories. 
 
 - Updates on my PhD research and experience as a student
 - Distillations of past experiences with Machine Learning in industry
-- Short explorations of exciting, new, or cutting edge technology
+- Short explorations of new, exciting, or cutting edge technology
 - Notes on how to be a productive
 
 For now, these are ordered based on their likelihood of occurrence. Over time, I may garner new interests that warrant posts of their own.
@@ -71,7 +71,7 @@ I am a first-year PhD student in machine learning. I am studying at UCI in Padhr
 <a name = "path"></a>
 ### My Non-traditional Path to Machine Learning
 
-When I was working as a consultant, the single question I got asked the most was: *"how did you break into this field"*? To be honest, I have never felt my answer was sufficiently informative. I usually start by mentioning my interest in math, something I decided to study in college. However, I did not start coding until I was a junior in college, nor had I taken a single computer science course until then. My job right out of college was not explicitly in Data Science, nor was any of my coursework in school. 
+When I was working as a consultant, the single question I got asked the most was: *"how did you break into this field"*? To be honest, I have never felt my answer was sufficiently informative. I usually start by mentioning my interest in math, something I decided to study in college. However, I did not start coding until I was a junior in college and took my first computer science course. My job right out of college was not explicitly in machine learning either, nor was any of my coursework in school. 
 
 Indeed, 90% of my college Machine Learning came from online forums, blogs, and tutorials. Generally, I would find a project that seemed interesting and try to replicate it. Along the way, I would do my best to pick up the knowledge (programming, mathematics, architecture) I needed to complete it well. I do not necessarily condone this approach - learning in such an ad-hoc way can lead to lots of confusion. For me though, it was exciting to chase after some new technology, learning whatever I could along the way.
 
