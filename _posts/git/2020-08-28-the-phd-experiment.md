@@ -28,9 +28,10 @@ tags:
 <a name = "welcome"></a>
 ### Welcome 
 
-Two weeks ago, I started a PhD in computer science with a focus on machine learning (ML), a dream of mine for years. My reasons for applying and enrolling this year are numerous, but above all I wanted to demystify the field I am so passionate about.
 
-Machine learning has been exploding in the last decade, yet the path to entering this field still remains obscure. *Why*? Companies are begging for ML talent. Colleges and companies alike seem to be conjuring up new Data Science curricula every week. Companies have been built around ML competitions, certifications, software, you name it. Yet, questions like:
+Interest in Machine learning has exploded in the last decade. If you are reading this, then you likely share that interest as well. The field is __exciting__. Teaching a machine to do human (or *super* human) tasks has a clear and immediate impact on society. Plus, its just plain cool to watch a program identify your face on video or recommend you a new TV show.
+
+Yet, the path to entering this field still remains obscure. *Why*? Companies are begging for ML talent. Colleges and companies alike seem to be conjuring up new Data Science curricula every week. Companies have been built around ML competitions, certifications, software, you name it. Yet, questions like:
 
 - What does it take to get a top-tier machine learning job?
 - How do I learn machine learning if I am no longer in school and want to switch jobs?
@@ -57,14 +58,12 @@ Accordingly, my posts will be roughly grouped into the following categories.
 - Short explorations of new, exciting, or cutting edge technology
 - Notes on how to be productive
 
-For now, these are ordered based on their likelihood of occurrence. Over time, I may garner new interests that warrant posts of their own.
-
 <!-- --------------------------------------------------------------------------------- -->
 
 <a name = "about-me"></a>
 ### A little about me
 
-I am a first-year PhD student in machine learning. I am studying at UCI in Padhraic Smyth's [DataLab Group](https://www.ics.uci.edu/~smyth/research_group.html). Before this, I was a Data Science Consultant for a mid-sized firm out of Chicago. There, I worked on some interesting projects related to FinTech and NLP. Right out of college, I worked for a national lab as a quantum computing research on a temporary fellowship. I received my undergraduate education from DePauw University, a small liberal arts college in Indiana. For more information, you can visit my website [here](https://samshowalter.github.io/#about).
+I am a first-year PhD student in machine learning. I am studying at UCI in Padhraic Smyth's [DataLab Group](https://www.ics.uci.edu/~smyth/research_group.html). Before this, I was a Data Science Consultant for a mid-sized firm out of Chicago. There, I worked on some interesting projects related to FinTech and NLP. Right out of college, I did quantum computing research at a national lab on a temporary fellowship. I received my undergraduate education from DePauw University, a small liberal arts college in Indiana. For more information, you can visit my [website](https://samshowalter.github.io/#about).
 
 <!-- --------------------------------------------------------------------------------- -->
 
