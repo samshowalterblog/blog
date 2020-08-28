@@ -14,19 +14,19 @@ tags:
 - Artificial Intelligence
 ---
 
-<!-- # Contents
-- [Welcome](#Welcome)
-- [What to Expect](#What to Expect)
-- [A Little About Me]
-- [A Non-traditional Path to Machine Learning]
-- [Coming Up]
-<a name = "overview"></a>
- -->
+# Contents 
+- [Welcome](#welcome) 
+- [What to Expect](#what-write) 
+- [A Little About Me](#about-me)  
+- [A Non-traditional Path to Machine Learning](#path) 
+- [Coming Up](#coming-up) 
+
 
 <!-- --------------------------------------------------------------------------------- -->
 
-<a name = "overview"></a>
-### Welcome
+
+<a name = "welcome"></a>
+### Welcome 
 
 Two weeks ago, I started a PhD in computer science with a focus on machine learning (ML), a dream of mine for years. 
 
@@ -45,6 +45,7 @@ In this blog I will talk about my personal (roundabout) path to machine learning
 
 <!-- --------------------------------------------------------------------------------- -->
 
+<a name = "what-write"></a>
 ### What will I write about?
 
 I started this blog primarily for personal benefit. Just like most, I do not have all the answers when it comes to machine learning. However, over time I have picked up little insights from my experience with the field and want to share those. I also intend to document my progression as a PhD student to give future PhD students an explicit, of what to expect.
@@ -60,12 +61,14 @@ For now, these are ordered based on their likelihood of occurrence. Over time, I
 
 <!-- --------------------------------------------------------------------------------- -->
 
+<a name = "about-me"></a>
 ### A little about me
 
-As I mentioned, I am a first-year PhD student in machine learning. I am studying at UCI in Padhraic Smyth's [DataLab Group](https://www.ics.uci.edu/~smyth/research_group.html). Before this, I was a Data Science Consultant for a mid-sized firm out of Chicago. There, I worked on some interesting projects related to FinTech and NLP. Right out of college, I worked for a national lab as a quantum computing research on a temporary fellowship. I received my undergraduate education from DePauw University, a small liberal arts college in Indiana. For more information, you can visit my website [here](https://samshowalter.github.io/#about).
+I am a first-year PhD student in machine learning. I am studying at UCI in Padhraic Smyth's [DataLab Group](https://www.ics.uci.edu/~smyth/research_group.html). Before this, I was a Data Science Consultant for a mid-sized firm out of Chicago. There, I worked on some interesting projects related to FinTech and NLP. Right out of college, I worked for a national lab as a quantum computing research on a temporary fellowship. I received my undergraduate education from DePauw University, a small liberal arts college in Indiana. For more information, you can visit my website [here](https://samshowalter.github.io/#about).
 
 <!-- --------------------------------------------------------------------------------- -->
 
+<a name = "path"></a>
 ### My Non-traditional Path to Machine Learning
 
 When I was working as a consultant, the single question I got asked the most was: *"how did you break into this field"*? To be honest, I have never felt my answer was sufficiently informative. I usually start by mentioning my interest in math, something I decided to study in college. However, I did not start coding until I was a junior in college, nor had I taken a single computer science course until then. My job right out of college was not explicitly in Data Science, nor was any of my coursework in school. 
@@ -76,6 +79,7 @@ Now that I am learning machine learning in a more structured environment, I felt
 
 <!-- --------------------------------------------------------------------------------- -->
 
+<a name = "coming-up"></a>
 ### Coming Up
 
 In the next few weeks I will be releasing a post about the ML opportunities available for people with different levels of education, from no college all the way up to a PhD. It will also cover my personal experience with applying for a PhD, including everything I learned about how to determine a good advisor, narrow a list of schools, and prepare a strong application.
