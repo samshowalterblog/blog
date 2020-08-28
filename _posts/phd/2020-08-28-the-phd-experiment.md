@@ -24,7 +24,7 @@ tags:
 
 <!-- --------------------------------------------------------------------------------- -->
 
-<img src="https://i.ibb.co/nsT0p0g/graduation.jpg" alt="graduation">
+<img src="https://i.ibb.co/nsT0p0g/graduation.jpg" alt="graduation" width = "100%">
 
 <a name = "welcome"></a>
 ### Welcome 
