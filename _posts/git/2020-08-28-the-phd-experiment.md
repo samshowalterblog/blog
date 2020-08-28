@@ -2,7 +2,7 @@
 layout: blog
 istop: true
 title: "The PhD Experiment"
-background-image: https://i.ibb.co/nsT0p0g/graduation.jpg" 
+background-image: https://i.ibb.co/nsT0p0g/graduation.jpg"
 date:  2020-08-28
 category: PhD
 thumb: graduation
@@ -14,69 +14,61 @@ tags:
 - Artificial Intelligence
 ---
 
+# Contents
+## Welcome
+## What to Expect
+## A Little About Me
+## A Non-traditional Path to Machine Learning
+## Coming Up
 
-Inspired by [Mark Reid's](https://twitter.com/mdreid) blog post [Switching from Jekyll to Hakyll](http://mark.reid.name/blog/switching-to-hakyll.html) I decided to abandon Wordpress and give Jekyll a try (note, I currently do not yet feel pro enough to switch to Haskell-based Hakyll). I can confidently say that I could not be happier about this decision.
 
-### Wordpress Monster
+<!-- --------------------------------------------------------------------------------- -->
 
-*"So what's wrong with Wordpress?"* You may ask. Let's see, everything:
+### Welcome
 
-- Wordpress blogs are clunky, slow and bloated.
-- Wordpress is dynamically rendered with **.php**. There are really only few niche applications where this is necessary. Dynamic code execution exposes your blog to hackers and exploits: zero-day attacks, viruses, etc. My own blog was hacked ~2 months ago and all my posts had been infected with spammy content that kept re-inserting itself magically when I removed it.
-- Wordpress is popular among the masses of people who don't know any better, and therefore attracts the largest amount of spammers.
-- Your posts are stuck forever in an ugly, Wordpress-specific SQL database (ew). You can't easily import/export posts. You do not really own your content in raw and nimble form.
-- Wordpress is blocked in China.
+Two weeks ago, I started a PhD in computer science with a focus on machine learning (ML), a dream of mine for years. However, since I submitted my application last December, one thing has become very clear: I have no idea what to expect.
 
-> Wordpress is a bloated, clunky, slow, vulnerable, closed mess.
+machine learning has been exploding in the last decade, yet the path to entering this field still remains obscure. Why? Companies are begging for ML talent. Colleges and companies alike seem to be conjuring up new Data Science curricula every week. Yet, there is still no consensus , leading to questions like:
 
-### Jekyll <3
+- What does it take to get a top-tier machine learning job?
+- How do I learn machine learning if I am no longer in school and want to switch jobs?
+- Is an online education (read: Coursera, Udemy, DataCamp, etc.) a sufficient replacement for in-person teaching?
+- PhD v. Masters' v. Bachelors' -- Are any (or all) of these necessary for machine learning?
 
-[Jekyll](http://jekyllrb.com/) describes itself as a tool for building *"Simple, blog-aware, static sites"*, and was originally written by one of the Github co-founders, [Tom Preston-Werner](http://tom.preston-werner.com/). It is flat and transparent: Your blog workspace is a single folder with a config file, and a few folders for CSS and HTML templates. All my content, for example, lives in two folders:
+If you are interested in machine learning but feel you don't have all the answers about the field, **welcome**. In this blog I will talk about my personal (roundabout) path to machine learning, trends at the cutting edge of the field, and what life is like as a PhD student. Over time, perhaps you and I can answer some of these questions together. I give no guarantees, but my hope is to post something new every few weeks until I (hopefully) graduate.
 
-1. My blog posts are just files in a single folder `_posts`, written in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Including this post, of course.
-2. My images are in a single folder `assets`.
+> If you are interested in machine learning but feel you don't have all the answers about the field, **welcome**.
 
-That's it. You call `$ jekyll build` from command line and it will automatically render all posts it finds in your `_posts` folder from markdown to HTML, wraps it with header/footer templates, creates the parent index page that lists all your posts and outputs everything into a directory `_site`. The `_site` directory holds your entire webpage as static content. It can then be uploaded to a webserver wherever you like.
+<!-- --------------------------------------------------------------------------------- -->
 
-The entire code base consists of like 7 files. It's easy to see how the HTML templates get composed to your final site. It's trivial to tweak the CSS or any of the HTML templates. For example, I added **Google Analytics** tracking code to all my pages by tweaking the html template, and also **Disqus** comments to all my posts by tweaking the posts template with the Disqus Javascript code.
+### What to Expect
 
-#### Github integration
+I started this blog primarily for personal benefit. Just like most, I do not have all the answers when it comes to machine learning. However, over time I have picked up little insights about what it means to be a Data Scientist. Now that I am a PhD student, I plan to use this blog a 
 
-Lastly, as you might expect Jekyll is tightly integrated with Github: create a repository that looks like `username.github.io` and add your files to the repo. Github will automatically compile your files with Jekyll and make the `_site` folder available. For example, mine lives on [karpathy.github.io](http://karpathy.github.io/). Thus, Github makes sure that your blog is beautifully backed up **forever in simple markdown**, and also **hosts your content**!
+Over the next few years, I will be writing about what it is like to complete a PhD, from application to (hopefully) dissertation. I will likely also add short, ancillary posts on things I find interesting or beneficial, including:
 
-> Jekyll strikes the balance: It's packed with just the right amount of features.
+- How to optimize your development environment 
+- Favorite software for ML research
+- Quantum computing
+- The differences between being an academic researcher and an industry practitioner.
 
-#### Example workflow
-To give a flavor for the workflow, to add a new blog post I proceed as follows:
+<!-- --------------------------------------------------------------------------------- -->
 
-```bash
-$ cd _posts
-$ vim 2014-07-02-example-page.markdown
-```
+### A Little About Me.
 
-Now we write the blog post in markdown, here's an example file:
+As I mentioned, I am a first-year PhD student in machine learning. I am studying at UCI in Padhraic Smyth's DataLab Group. Before this, I was a Data Science Consultant for a mid-sized firm out of Chicago. There, I worked on some interesting projects related to FinTech and NLP. Before that, I worked for a national lab as a quantum computing research fellow. For more information, you can visit my website [https://samshowalter.github.io/#about](here).
 
-```bash
----
-layout: post
-title:  "Post title"
-excerpt: "A nice post"
-date:   2014-07-02 10:00:00
----
+<!-- --------------------------------------------------------------------------------- -->
 
-Hello world, this is **markdown**.
+### A Non-traditional Path to Machine Learning
 
-```
+I 
 
-Lets pop back out to console now. I could preview the changes in a local webserver with `$ jekyll serve --watch` (the watch switch refreshes any updated files as you write them). Now let's just push it live:
+<!-- --------------------------------------------------------------------------------- -->
 
-```bash
-$ cd ..
-$ git add .
-$ git commit -m "new blog post"
-$ git push
-```
+### Coming Up
 
-After the last command, Github will see that my repo has changed and automatically refreshes [karpathy.github.io](http://karpathy.github.io/) to point to the newly generated `_site`. My post is live!
+In the next few weeks I will be releasing a post on what the PhD application process is like. It will cover everything I learned about how to determine a good advisor, narrow a list of schools, and prepare a strong application.
 
-Anyway, that's just a brief taste. Check out [Jekyll](http://jekyllrb.com/) and get blogging in a sane way!
+
+
