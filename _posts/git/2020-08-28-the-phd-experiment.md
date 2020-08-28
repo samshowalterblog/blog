@@ -68,9 +68,9 @@ I am a first-year PhD student in machine learning at UC Irvine in Padhraic Smyth
 <a name = "path"></a>
 ### My Non-traditional Path to Machine Learning
 
-When I was working as a consultant, the single question I got asked the most was: *"how did you break into Machine Learning"*? To be honest, I was never sure of what to say. I'd usually start by mentioning my interest in math, which I studed in college. However, I did not start coding until I was a junior in college and took my first computer science course. Even my job as a consultant was not explicitly in machine learning, nor was any of my coursework in school. 
+When I was working as a consultant, the single question I got asked the most was: *"how did you break into Machine Learning"*? To be honest, I was never sure of what to say. I'd usually start by mentioning my interest in math, which I studed in college. However, I did not start coding until I was a junior and enrolled in my first computer science course. Even my job as a consultant was not explicitly in machine learning, nor was any of my coursework in school. 
 
-Indeed, 90% of my college Machine Learning came from online forums, blogs, and tutorials. Generally, I would find a project that seemed interesting and try to replicate it. Along the way, I would do my best to pick up the knowledge (programming, mathematics, architecture) I needed to complete it well. I do not necessarily condone this approach - learning in such an ad-hoc way can lead to lots of confusion. For me, though, it was exciting to chase after some new technology, learning whatever I could along the way.
+Indeed, 90% of my initial exposure to Machine Learning came from online forums, blogs, and tutorials. Generally, I would find a project that seemed interesting and try to replicate it. Along the way, I would do my best to pick up the knowledge (programming, mathematics, architecture) I needed to complete it well. I do not necessarily condone this approach - learning in such an ad-hoc way can lead to lots of confusion. For me, though, it was exciting to chase after some new technology, learning whatever I could along the way.
 
 Now that I am learning machine learning in a more structured environment, I felt it would be beneficial to organize my thoughts on the field as well. 
 
