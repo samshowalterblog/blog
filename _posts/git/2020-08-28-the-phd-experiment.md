@@ -14,12 +14,12 @@ tags:
 - Artificial Intelligence
 ---
 
-#### Contents 
+<!-- #### Contents 
 - [Welcome](#welcome) 
 - [What to Expect](#what-write) 
 - [A Little About Me](#about-me)  
 - [A Non-traditional Path to Machine Learning](#path) 
-- [Coming Up](#coming-up) 
+- [Coming Up](#coming-up)  -->
 
 
 <!-- --------------------------------------------------------------------------------- -->
@@ -55,7 +55,7 @@ Accordingly, my posts will be roughly grouped into the following categories.
 - Updates on my PhD research and experience as a student
 - Distillations of past experiences with Machine Learning in industry
 - Short explorations of new, exciting, or cutting edge technology
-- Notes on how to be a productive
+- Notes on how to be productive
 
 For now, these are ordered based on their likelihood of occurrence. Over time, I may garner new interests that warrant posts of their own.
 
