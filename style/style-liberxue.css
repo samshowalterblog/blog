@@ -788,9 +788,6 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     padding: 4px 13px;
 }
 
-.citation{
-    display: none;
-}
 
 .post-list-item-container .item-thumb {
     position: relative;
