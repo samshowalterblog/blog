@@ -3,7 +3,7 @@ layout: blog
 istop: false
 title: "The PhD Experiment"
 background-image: https://i.ibb.co/nsT0p0g/graduation.jpg"
-cite: https://www.blackline.com/blog/finance-automation/machine-learning-experts/
+cite: 
 date:  2020-08-28
 category: PhD
 thumb: graduation
@@ -25,7 +25,11 @@ tags:
 
 <!-- --------------------------------------------------------------------------------- -->
 
-<img src="https://i.ibb.co/c1MXMWB/ml.jpg" alt="ml" border="0" width = "100%">
+<figure>
+    <img src="https://i.ibb.co/c1MXMWB/ml.jpg" alt="ml" border="0" width = "100%">
+    <figcaption>Source: https://www.blackline.com/blog/finance-automation/machine-learning-experts/</figcaption>
+</figure>
+
 
 <a name = "welcome"></a>
 ### Welcome 
