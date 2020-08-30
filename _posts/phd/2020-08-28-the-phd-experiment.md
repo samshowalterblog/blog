@@ -6,7 +6,7 @@ background-image: https://i.ibb.co/nsT0p0g/graduation.jpg"
 date:  2020-08-28
 category: PhD
 thumb: graduation
-latest: true
+latest: false
 tags:
 - PhD
 - Computer Science
