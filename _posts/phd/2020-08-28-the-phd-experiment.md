@@ -1,12 +1,13 @@
 ---
 layout: blog
-istop: true
+istop: false
 title: "The PhD Experiment"
 background-image: https://i.ibb.co/nsT0p0g/graduation.jpg"
+cite: https://www.blackline.com/blog/finance-automation/machine-learning-experts/
 date:  2020-08-28
 category: PhD
 thumb: graduation
-latest: false
+latest: true
 tags:
 - PhD
 - Computer Science
