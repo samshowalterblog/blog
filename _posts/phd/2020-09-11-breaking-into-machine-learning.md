@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: blog
 istop: true
 title: "Education and breaking into Machine Learning"
@@ -12,7 +12,7 @@ tags:
 - Graduate School
 - Machine Learning
 - Artificial Intelligence
----
+--- -->
 
 # Hi
 
