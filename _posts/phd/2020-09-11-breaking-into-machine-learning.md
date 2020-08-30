@@ -1,7 +1,7 @@
-<!-- ---
+---
 layout: blog
 istop: true
-title: "The PhD Experiment"
+title: "Education and breaking into Machine Learning"
 background-image: https://i.ibb.co/xY2vx3Y/ml-graduate-school.png
 date:  2020-09-11
 category: PhD
@@ -12,7 +12,7 @@ tags:
 - Graduate School
 - Machine Learning
 - Artificial Intelligence
---- -->
+---
 
 # Hi
 
