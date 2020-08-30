@@ -27,7 +27,7 @@ tags:
 
 <figure>
     <img src="https://i.ibb.co/c1MXMWB/ml.jpg" alt="ml" border="0" width = "100%">
-    <figcaption>Source: https://www.blackline.com/blog/finance-automation/machine-learning-experts/</figcaption>
+<!--     <figcaption><a href=https://www.blackline.com/blog/finance-automation/machine-learning-experts/>Image source</a></figcaption> -->
 </figure>
 
 
