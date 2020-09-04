@@ -35,13 +35,13 @@ Thus, much of my time spent learning ML over the next few years involved transla
 ### Filling the gaps: Self-study
 
 While the title of this blog was not meant to be misleading, formal education is *not* the only way to break into machine learning. Online courses, bootcamps, self-study - all of these can prepare you for a good (or even great!) ML job. With that said, I would like to add the following cautions for taking this non-traiditonal route.
-- Self-study can (and does) have many hazards. There is no shortage of YouTube tutorials or Medium.com how-to articles for Machine Learning. What there _is_ a shortage of, however, is quality control. Always trust, but verify!
+- Self-study can (and does) have many hazards. There is no shortage of YouTube tutorials or Medium.com how-to articles for Machine Learning. What there **is** a shortage of, however, is quality control. Always trust, but verify!
 - While online degrees affiliated with a reputable university carry essentially the same prestige as an in-person program, company-based programs vary considerably in their quality and preceived worth. 
     + Most of these courses can be taken for free, with the answers readily available for anyone who can do a Google search. 
 - Only original self-led projects tend to hold water in Machine Learning interviews. No one is going to be impressed by your stack-overflow copy-pasta.
     + To be clear, copy-pasta is ok for learning purposes and in moderation. Just don't bring up those projects in an interview.
 
-> There is no shortage of YouTube tutorials or Medium.com how-to articles for Machine Learning. What there _is_ a shortage of, however, is quality control. Always trust, but verify!  
+> There is no shortage of YouTube tutorials or Medium.com how-to articles for Machine Learning. What there **is** a shortage of, however, is quality control. Always trust, but verify!  
 
 
 ### Formal education and Machine Learning careers
