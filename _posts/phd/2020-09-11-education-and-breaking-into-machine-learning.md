@@ -42,7 +42,7 @@ While the title of this blog was not meant to be misleading, formal education is
     + To be clear, copy-pasta is ok for learning purposes and in moderation. Just don't bring up those projects in an interview.
 
 > There is no shortage of YouTube tutorials or Medium.com how-to articles for Machine Learning. What there _is_ a shortage of, however, is quality control. Always trust, but verify!
-> 
+>  
 #### Formal education and Machine Learning careers
 
 In my Machine Learning journey, I did hundreds of hours of self-study. Projects, tutorials, videos, porting code from existing projects, you name it. However, I can say confidently that there is no educational replacement for completing projects in a professional or academic setting.
