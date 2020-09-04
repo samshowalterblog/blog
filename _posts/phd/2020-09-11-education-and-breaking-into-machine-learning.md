@@ -4,6 +4,7 @@ istop: true
 title: "A Game of Translation: Education and breaking into Machine Learning"
 background-image: https://i.ibb.co/xY2vx3Y/ml-graduate-school.png
 date:  2020-09-04
+cite:
 category: PhD
 thumb: graduation
 latest: true
