@@ -18,7 +18,7 @@ tags:
 <img src="https://i.ibb.co/xY2vx3Y/ml-graduate-school.png" alt="education-ml" border="0" width = "100%">
 <!-- Picture borrowed from GeeksforGeeks.com -->
 
-#### Machine Learning: A curiously obscure field
+### Machine Learning: A curiously obscure field
 
 When I first heard the words *Machine Learning*, I was an intern for the Data Analytics affiliate of Kroger Stores, 84.51&deg;. A rising college junior, I had never ventured beyond Excel for statistical modeling. Here, I spent most of my time querying and organizing basic statistics with SQL, a task well out of my comfort zone. One day, a few of the more tech-savvy interns told me about their "_machine learning_" projects: customer segmentation, demand forecasting, other words I did not understand.
 
@@ -26,13 +26,13 @@ What I did understand, though, was that this stuff was fascinating. "The program
 
 However, when I pressed for details on how their programs worked, the confusion started. What is the "K" in K-means clustering? What does SVM stand for again? This was incredibly frustrating for me. I was a math major, why couldn't I grasp what they were talking about? Phrases like "centroids", "tokenization", "one-hot encoding", and "softmax" left me clueless as to the underlying mechanics of their work.
 
-#### A game of translation
+### A game of translation
 
 This was my first lesson in Machine Learning and the imposter syndrome that can come with it: vocabulary. In my experience, vocabulary is one of the most confusing aspects of Machine Learning, especially for novices. Most people have heard of a matrix, but what about a _tensor_? I had heard of the idea of dummy variables in school, but never _one-hot encoding_ (hint: they are essentially the same).
 
 Thus, much of my time spent learning ML over the next few years involved translating topics from math or computer science into their machine learning equivalents. Now, a good grasp of vocabulary will not make you a data science master, but it certainly will accelerate your journey. The question remains though: how do you acquire these skills in the first place?
 
-#### Filling the gaps: Self-study
+### Filling the gaps: Self-study
 
 While the title of this blog was not meant to be misleading, formal education is *not* the only way to break into machine learning. Online courses, bootcamps, self-study - all of these can prepare you for a good (or even great!) ML job. With that said, I would like to add the following cautions for taking this non-traiditonal route.
 - Self-study can (and does) have many hazards. There is no shortage of YouTube tutorials or Medium.com how-to articles for Machine Learning. What there _is_ a shortage of, however, is quality control. Always trust, but verify!
@@ -44,7 +44,7 @@ While the title of this blog was not meant to be misleading, formal education is
 > There is no shortage of YouTube tutorials or Medium.com how-to articles for Machine Learning. What there _is_ a shortage of, however, is quality control. Always trust, but verify!  
 
 
-#### Formal education and Machine Learning careers
+### Formal education and Machine Learning careers
 
 In my Machine Learning journey, I did hundreds of hours of self-study. Projects, tutorials, videos, porting code from existing projects, you name it. However, I can say confidently that there is no educational replacement for completing projects in a professional or academic setting.
 
@@ -96,7 +96,7 @@ These are people that implement methods and algorithms that have been deemed eff
 
 These positions are heavily centered around research. The education requirement is much higher, usually a Master's degree minimum with some experience conducting research. For the most competitive of these positions, particularly Professorship, a PhD is a requirement. These are people who examine existing methods at the cutting edge of Machine Learning and extend them. The systems they create tend to be new and novel, not a replication of existing work.
 
-#### Choosing your path: My story
+### Choosing your path: My story
 
 Clearly, there are many paths to Machine Learning, and choosing the right one for you can be difficult. For me, I was drawn to the PhD route for the following reasons:
 1. I got a liberal arts degree from a non-target school. I did not major in Computer Science and found it difficult to convince companies I was suited for a Machine Learning job.
@@ -112,7 +112,7 @@ However, perhaps you want another degree anyway because, like me, you like to le
 
 > Perhaps you want a graduate degree because, like me, you like to learn. However, choose carefully: what you don't pay with money, you pay with time :).
 
-#### Up Next
+### Up Next
 
 In the next couple of weeks, I will take this post one step further by walking you through the PhD application process. Topics like choosing a school and advisor, determining how many applications to submit, gathering application materials, taking the GRE, and choosing recommenders will be covered.
 

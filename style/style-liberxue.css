@@ -75,7 +75,7 @@ h1 tt, h1 code, h2 tt, h2 code, h3 tt, h3 code, h4 tt, h4 code, h5 tt, h5 code, 
 
 h1 { font-size: 36px; }
 h2 { font-size: 28px; }
-h3 { font-size: 22px; }
+h3 { font-size: 24px; }
 h4 { font-size: 18px; }
 
 body > h2:first-child, body > h1:first-child, body > h1:first-child + h2, body > h3:first-child, body > h4:first-child, body > h5:first-child, body > h6:first-child {
