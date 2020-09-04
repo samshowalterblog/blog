@@ -52,26 +52,26 @@ With this in mind, let's shift our focus to a more traditional path to machine l
 
 Moreover, graduate degrees are increasingly common for Machine Learning practitioners and researchers, with a Bachelor's degree considered a fairly strict requirement. The primary education routes one can take are listed below:
 
-1. Bachelor's Degree 
+1. **Bachelor's** Degree 
 - Does not need to be in Computer Science, but is *very* helpful for industry recognition if you attained a STEM degree
 - A Bachelor's of Arts or Science are both accepted, though a Bachelor's of Science will be seen as more desirable
 - Regardless of your degree, you will need to demonstrate proficiency in programming and a solid grasp of basic math (statistics, linear algebra, vector calculus)
 - For getting a ML job right out of school, your project work, grades, previous internships, and the reputation of your program will contribute the most heavily to your success (aside from your interviews, of course)
 
-2. _Professional_ Master's degree in Data Science / Business Analytics / Computer Science / Applied Math ...
+2. **Professional Master's** degree in Data Science / Business Analytics / Computer Science / Applied Math ...
     - Tend to take 1-2 years and can be online or in-person
     - Structured for people who intend to graduate straight into industry and not go for a PhD
     - Emphasis is placed on project-oriented coursework and less on theory and research
     - Tend to be expensive programs (70 - 120k in total)
     
-3. _Thesis_ Master's degree in Data Science / Analytics / Computer Science / Applied Math ...
+3. **Thesis Master's** degree in Data Science / Analytics / Computer Science / Applied Math ...
     - Tend to take ~2 years, predominantly in-person instruction
     - Provide a nice mix of coursework and research
     - Emphasis is placed more on research conducted with a research advisor
     - Can feed naturally into a PhD
     - Expensive programs, but have some funding possibilities (TA, paid research)
 
-4. PhD in Computer Science with a focus in Machine Learning / AI / Data Science ...
+4. **PhD** in Computer Science with a focus in Machine Learning / AI / Data Science ...
     - Tend to take 4.5+ years, in-person instruction
     - Heavily focused on research
     - Will attain a research-oriented Master's degree _in-passing_ if you do not already have one (~2-3 years)
