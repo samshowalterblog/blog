@@ -1,6 +1,6 @@
 ---
 layout: blog
-istop: true
+istop: false
 title: "Education and breaking into Machine Learning"
 background-image: https://i.ibb.co/xY2vx3Y/ml-graduate-school.png
 date:  2020-09-04
@@ -17,6 +17,8 @@ tags:
 
 <img src="https://i.ibb.co/xY2vx3Y/ml-graduate-school.png" alt="education-ml" border="0" width = "100%">
 <!-- Picture borrowed from GeeksforGeeks.com -->
+
+<!-- Started at 442 page views -->
 
 ### Machine Learning: A curiously obscure field
 
