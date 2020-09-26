@@ -904,6 +904,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 
 .post-list-item-container .item-label .item-meta {
     position: absolute;
+    font-size: 12px !important;
     right: 0;
     bottom: 0;
     width: 100%;
@@ -923,7 +924,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 }
 
 .post-list-item-container .item-label .item-meta .item-meta-date {
-    font-size: 12px;
+    font-size: 12px !important;
     position: relative;
     float: left;
     padding-top: 9px;
