@@ -1113,25 +1113,25 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 .post-content h1 {
     font-weight: 500;
     position: relative;
-    margin: 20px 0px 20px 17px;
+    margin: 20px 0px 20px 20px;
 }
 
 .post-content h2 {
     font-weight: 500;
     position: relative;
-    margin: 20px 0px 20px 32px;
+    margin: 20px 0px 20px 35px;
 }
 
 .post-content h3 {
     font-weight: 500;
     position: relative;
-    margin: 20px 0px 20px 47px;
+    margin: 20px 0px 20px 50px;
 }
 
 .post-content h4, .post-content h5, .post-content h6 {
     font-weight: 500;
     position: relative;
-    margin: 20px 0px 20px 62px;
+    margin: 20px 0px 20px 65px;
 }
 
 
@@ -1148,7 +1148,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     font-weight: 600;
     position: absolute;
     top: 0;
-    left: -17px;
+    left: -20px;
     content: '# ';
     color: #eb5055;
 }
@@ -1156,7 +1156,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     font-weight: 600;
     position: absolute;
     top: 0;
-    left: -32px;
+    left: -35px;
     content: '## ';
     color: #eb5055;
 }
@@ -1164,16 +1164,16 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     font-weight: 600;
     position: absolute;
     top: 0;
-    left: -47px;
+    left: -50px;
     content: '### ';
     color: #eb5055;
 }
 
-.post-content h4::before{
+.post-content h4::before .post-content h4::before .post-content h4::before{
     font-weight: 600;
     position: absolute;
     top: 0;
-    left: -62px;
+    left: -65px;
     content: '#### ';
     color: #eb5055;
 }
