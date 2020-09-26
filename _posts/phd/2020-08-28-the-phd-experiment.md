@@ -46,8 +46,9 @@ However, the path to entering this field still remains obscure. *Why*? Companies
 
 are still not easy to answer. If you are interested in machine learning but are not sure where to start, **welcome**, this blog is for you. I started **The PhD Experiment** to share my understanding of Machine Learning as it develops over the next 5+ years.
 
-> If you are interested in machine learning but are not sure where to start, **welcome**, this blog is for you. 
+> If you are interested in machine learning but are not sure where to start, **welcome**, this blog is for you. >
 > 
+
 \begin{equation*}
 \mathbf{V}_1 \times \mathbf{V}_2 =  \begin{vmatrix}
 \mathbf{i} & \mathbf{j} & \mathbf{k} \\
@@ -55,7 +56,6 @@ are still not easy to answer. If you are interested in machine learning but are 
 \frac{\partial X}{\partial v} &  \frac{\partial Y}{\partial v} & 0
 \end{vmatrix}
 \end{equation*}
-
 <!-- --------------------------------------------------------------------------------- -->
 
 <a name = "what-write"></a>
