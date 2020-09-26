@@ -55,14 +55,6 @@ are still not easy to answer. If you are interested in machine learning but are 
 
 I started this blog to share my perspective on Machine Learning. Just like most, I do not have all the answers. However, over time I have picked up little insights that might be worth sharing. I also intend to document my PhD experience and give future students an explicit, chronological record of what to expect.
 
-```python
-import pandas as pd 
-
-print("Hello")
-
-pd.read_csv("This is a test")
-```
-
 
 
 Accordingly, my posts will be roughly grouped into the following categories. 
