@@ -32,7 +32,7 @@ tags:
 
 
 <a name = "welcome"></a>
-### Welcome 
+## Welcome 
 
 
 Interest in Machine learning has exploded in the last decade. If you are reading this, then you likely share that interest as well. The field is *exciting*. Teaching a machine to do human (or *super* human) tasks has a clear and immediate impact on society. Plus, it's just plain cool to watch a program identify your face on video or recommend a new TV show.
@@ -51,7 +51,7 @@ are still not easy to answer. If you are interested in machine learning but are 
 <!-- --------------------------------------------------------------------------------- -->
 
 <a name = "what-write"></a>
-### What will I write about?
+## What will I write about?
 
 I started this blog to share my perspective on Machine Learning. Just like most, I do not have all the answers. However, over time I have picked up little insights that might be worth sharing. I also intend to document my PhD experience and give future students an explicit, chronological record of what to expect.
 
@@ -65,14 +65,14 @@ Accordingly, my posts will be roughly grouped into the following categories.
 <!-- --------------------------------------------------------------------------------- -->
 
 <a name = "about-me"></a>
-### A little about me
+## A little about me
 
 I am a first-year PhD student in machine learning at UC Irvine in Padhraic Smyth's [DataLab Group](https://www.ics.uci.edu/~smyth/research_group.html). Before this, I was a Data Science Consultant for a mid-sized firm out of Chicago. There, I worked on some interesting projects related to FinTech and NLP. Right out of college, I worked as a Quantum Computing Researcher at a national lab on a temporary fellowship. I received my undergraduate education from DePauw University, a small liberal arts college in Indiana. For more information, you can visit my [website](https://samshowalter.github.io/#about).
 
 <!-- --------------------------------------------------------------------------------- -->
 
 <a name = "path"></a>
-### My non-traditional path to Machine Learning
+## My non-traditional path to Machine Learning
 
 When I was working as a consultant, the single question I got asked the most was: *"how did you break into Machine Learning"*? To be honest, I was never sure of what to say. I'd usually start by mentioning my interest in math, which I studed in college. However, I did not start coding until I was a junior and enrolled in my first computer science course. Even my job as a consultant was not explicitly in machine learning, nor was any of my coursework in school. 
 
@@ -83,7 +83,7 @@ Now that I am learning machine learning in a more structured environment, I felt
 <!-- --------------------------------------------------------------------------------- -->
 
 <a name = "coming-up"></a>
-### Coming up
+## Coming up
 
 In the next few weeks, I will be releasing a post about the Machine Learning opportunities available for people with different levels of education, from no college the way up to a PhD. It will also cover my personal experience with applying for a PhD, including everything I learned about how to determine a good advisor, narrow a list of schools, and prepare a strong application.
 
