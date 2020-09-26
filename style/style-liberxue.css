@@ -2174,6 +2174,13 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
         max-width: 100%;
     }
 
+    .post-header-thumb {
+    position: relative;
+    height: 340;
+    px;
+    background: #f7f7f733;
+}
+
 /*    .post-header-thumb {
         height: 220px;
     }
