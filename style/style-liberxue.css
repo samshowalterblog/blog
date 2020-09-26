@@ -1111,25 +1111,25 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 }
 
 .post-content h1 {
-    font-weight: 500;
+    font-weight: bold;
     position: relative;
     margin: 20px 0px 20px 25px;
 }
 
 .post-content h2 {
-    font-weight: 500;
+    font-weight: bold;
     position: relative;
     margin: 20px 0px 20px 40px;
 }
 
 .post-content h3 {
-    font-weight: 500;
+    font-weight: bold;
     position: relative;
     margin: 20px 0px 20px 55px;
 }
 
 .post-content h4, .post-content h5, .post-content h6 {
-    font-weight: 500;
+    font-weight: bold;
     position: relative;
     margin: 20px 0px 20px 70px;
 }
