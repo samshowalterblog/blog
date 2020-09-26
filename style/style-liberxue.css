@@ -1110,11 +1110,30 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     line-height: 40px;*/
 }
 
-.post-content h1, .post-content h2, .post-content h3, .post-content h4, .post-content h5, .post-content h6 {
+.post-content h1 {
     font-weight: 500;
     position: relative;
-    margin: 20px 0;
+    margin: 20px 0px 20px 17px;
 }
+
+.post-content h2 {
+    font-weight: 500;
+    position: relative;
+    margin: 20px 0px 20px 32px;
+}
+
+.post-content h3 {
+    font-weight: 500;
+    position: relative;
+    margin: 20px 0px 20px 47px;
+}
+
+.post-content h4, .post-content h5, .post-content h6 {
+    font-weight: 500;
+    position: relative;
+    margin: 20px 0px 20px 62px;
+}
+
 
 /*.post-content h1::before, .post-content h2::before, .post-content h3::before, .post-content h4::before, .post-content h5::before, .post-content h6::before {
     font-weight: 600;
