@@ -1,6 +1,6 @@
 ---
 layout: blog
-istop: false
+istop: true
 title: "Imposter Syndrome and PhD Applications: What to Know"
 background-image: "https://i.ibb.co/ZhYL0r2/app.jpg"
 date:  2020-09-18
