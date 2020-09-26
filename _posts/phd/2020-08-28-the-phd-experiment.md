@@ -55,13 +55,13 @@ are still not easy to answer. If you are interested in machine learning but are 
 
 I started this blog to share my perspective on Machine Learning. Just like most, I do not have all the answers. However, over time I have picked up little insights that might be worth sharing. I also intend to document my PhD experience and give future students an explicit, chronological record of what to expect.
 
-\begin{equation*}
-\mathbf{V}_1 \times \mathbf{V}_2 =  \begin{vmatrix}
-\mathbf{i} & \mathbf{j} & \mathbf{k} \\
-\frac{\partial X}{\partial u} &  \frac{\partial Y}{\partial u} & 0 \\
-\frac{\partial X}{\partial v} &  \frac{\partial Y}{\partial v} & 0
-\end{vmatrix}
-\end{equation*}
+```python
+import pandas as pd 
+
+print("Hello")
+
+pd.read_csv("This is a test")
+```
 
 
 
@@ -78,8 +78,6 @@ Accordingly, my posts will be roughly grouped into the following categories.
 ## A little about me
 
 I am a first-year PhD student in machine learning at UC Irvine in Padhraic Smyth's [DataLab Group](https://www.ics.uci.edu/~smyth/research_group.html). Before this, I was a Data Science Consultant for a mid-sized firm out of Chicago. There, I worked on some interesting projects related to FinTech and NLP. Right out of college, I worked as a Quantum Computing Researcher at a national lab on a temporary fellowship. I received my undergraduate education from DePauw University, a small liberal arts college in Indiana. For more information, you can visit my [website](https://samshowalter.github.io/#about).
-
-$$\int_\Omega \nabla u \cdot \nabla v~dx = \int_\Omega fv~dx$$
 
 <!-- --------------------------------------------------------------------------------- -->
 
