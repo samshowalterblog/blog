@@ -1114,7 +1114,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     margin: 20px 0;
 }
 
-.post-content h1::before, .post-content h2::before, .post-content h3::before, .post-content h4::before, .post-content h5::before, .post-content h6::before {
+.post-content h1::before, .post-content h2::before::before, .post-content h3::before, .post-content h4::before, .post-content h5::before, .post-content h6::before {
     font-weight: 600;
     position: absolute;
     top: 0;
