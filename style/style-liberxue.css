@@ -1033,7 +1033,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
    ========================================================================== */
 .post-header-thumb {
     position: relative;
-    height: 310px;
+    height: 291px;
     background: #f7f7f733;
 }
 
@@ -1063,7 +1063,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     position: relative;
     top: 100px;
     max-width: 2024px;
-    margin: 0 auto;
+    margin: 0 0 15 0;
     -webkit-animation: auto;
     animation: fade-in;
     animation-duration: .5s;
