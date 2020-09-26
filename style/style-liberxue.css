@@ -1113,25 +1113,25 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 .post-content h1 {
     font-weight: 500;
     position: relative;
-    margin: 20px 0px 20px 20px;
+    margin: 20px 0px 20px 25px;
 }
 
 .post-content h2 {
     font-weight: 500;
     position: relative;
-    margin: 20px 0px 20px 35px;
+    margin: 20px 0px 20px 40px;
 }
 
 .post-content h3 {
     font-weight: 500;
     position: relative;
-    margin: 20px 0px 20px 50px;
+    margin: 20px 0px 20px 55px;
 }
 
 .post-content h4, .post-content h5, .post-content h6 {
     font-weight: 500;
     position: relative;
-    margin: 20px 0px 20px 65px;
+    margin: 20px 0px 20px 70px;
 }
 
 
@@ -1148,7 +1148,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     font-weight: 600;
     position: absolute;
     top: 0;
-    left: -20px;
+    left: -25px;
     content: '# ';
     color: #eb5055;
 }
@@ -1156,7 +1156,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     font-weight: 600;
     position: absolute;
     top: 0;
-    left: -35px;
+    left: -40px;
     content: '## ';
     color: #eb5055;
 }
@@ -1164,7 +1164,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     font-weight: 600;
     position: absolute;
     top: 0;
-    left: -50px;
+    left: -55px;
     content: '### ';
     color: #eb5055;
 }
@@ -1173,7 +1173,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     font-weight: 600;
     position: absolute;
     top: 0;
-    left: -65px;
+    left: -70px;
     content: '#### ';
     color: #eb5055;
 }
