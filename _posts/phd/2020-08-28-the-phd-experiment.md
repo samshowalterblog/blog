@@ -46,8 +46,14 @@ However, the path to entering this field still remains obscure. *Why*? Companies
 
 are still not easy to answer. If you are interested in machine learning but are not sure where to start, **welcome**, this blog is for you. I started **The PhD Experiment** to share my understanding of Machine Learning as it develops over the next 5+ years.
 
-> If you are interested in machine learning but are not sure where to start, **welcome**, this blog is for you. >
+> If you are interested in machine learning but are not sure where to start, **welcome**, this blog is for you.
 > 
+<!-- --------------------------------------------------------------------------------- -->
+
+<a name = "what-write"></a>
+## What will I write about?
+
+I started this blog to share my perspective on Machine Learning. Just like most, I do not have all the answers. However, over time I have picked up little insights that might be worth sharing. I also intend to document my PhD experience and give future students an explicit, chronological record of what to expect.
 
 \begin{equation*}
 \mathbf{V}_1 \times \mathbf{V}_2 =  \begin{vmatrix}
@@ -56,12 +62,8 @@ are still not easy to answer. If you are interested in machine learning but are 
 \frac{\partial X}{\partial v} &  \frac{\partial Y}{\partial v} & 0
 \end{vmatrix}
 \end{equation*}
-<!-- --------------------------------------------------------------------------------- -->
 
-<a name = "what-write"></a>
-## What will I write about?
 
-I started this blog to share my perspective on Machine Learning. Just like most, I do not have all the answers. However, over time I have picked up little insights that might be worth sharing. I also intend to document my PhD experience and give future students an explicit, chronological record of what to expect.
 
 Accordingly, my posts will be roughly grouped into the following categories. 
 
@@ -76,6 +78,8 @@ Accordingly, my posts will be roughly grouped into the following categories.
 ## A little about me
 
 I am a first-year PhD student in machine learning at UC Irvine in Padhraic Smyth's [DataLab Group](https://www.ics.uci.edu/~smyth/research_group.html). Before this, I was a Data Science Consultant for a mid-sized firm out of Chicago. There, I worked on some interesting projects related to FinTech and NLP. Right out of college, I worked as a Quantum Computing Researcher at a national lab on a temporary fellowship. I received my undergraduate education from DePauw University, a small liberal arts college in Indiana. For more information, you can visit my [website](https://samshowalter.github.io/#about).
+
+$$\int_\Omega \nabla u \cdot \nabla v~dx = \int_\Omega fv~dx$$
 
 <!-- --------------------------------------------------------------------------------- -->
 
