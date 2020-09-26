@@ -36,8 +36,8 @@ html {
 }
 
 body {
-    font-family: "Nunito";
-    /*-apple-system, SF UI Text, Arial, PingFang SC, Hiragino Sans GB, Microsoft YaHei, WenQuanYi Micro Hei, sans-serif;*/
+    font-family: -apple-system, Hiragino Sans GB, Microsoft YaHei, WenQuanYi Micro Hei, sans-serif;*/
+    /*SF UI Text, Arial, PingFang SC,*/
     font-size: 14px;
     line-height: 1.8;
     margin: 0 auto;
