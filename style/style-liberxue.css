@@ -38,7 +38,7 @@ html {
 body {
     font-family: -apple-system, Open Sans, sans-serif;
     /*SF UI Text, Arial, PingFang SC,*/
-    font-size: 14px;
+    font-size: 16px;
     line-height: 1.8;
     margin: 0 auto;
     color: #313131;
@@ -59,6 +59,11 @@ body > * :first-child {
 p, blockquote, ul, ol, dl, table, pre {
     margin: 20px 0;
     vertical-align: baseline;
+}
+
+ul, ol, dl
+{
+    font-size: 16;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -168,7 +173,7 @@ blockquote {
 
     border-left: 4px solid rgba(235, 80, 85, 0.62);
     padding-left: 20px;
-    font-size: 18px;
+    font-size: 20px;
     opacity: .6;
     letter-spacing: -1px;
     font-style: italic;
