@@ -1108,6 +1108,14 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 
 .post-content p {
     /*padding-top: 10px;*/
+    font-size: 18px;
+/*    word-wrap: break-word;
+    word-break: break-word;
+    line-height: 40px;*/
+}
+
+.post-content ul, ol, dl {
+    /*padding-top: 10px;*/
     font-size: 16px;
 /*    word-wrap: break-word;
     word-break: break-word;
