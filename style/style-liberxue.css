@@ -229,7 +229,7 @@ table thead tr {
 }
 
 button, input, select, textarea {
-    font-family: -apple-system, SF UI Text, Arial, PingFang SC, Hiragino Sans GB, sans-serif;
+    font-family: -apple-system, "Open Sans", sans-serif;
     font-size: 13px;
     line-height: 1.6;
     resize: none;
