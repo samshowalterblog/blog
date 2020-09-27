@@ -105,8 +105,7 @@ a {
 /* a:active,a:focus,a:hover{color:#eb5055;outline:0;} */
 a::before {
     color: #eb5055;
-    content: "...";
-    /*content: attr(data-hover);*/
+    content: attr(data-hover);
     position: absolute;
     outline: 0;
     white-space: nowrap;
