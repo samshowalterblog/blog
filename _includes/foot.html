@@ -29,9 +29,9 @@
          </div>
          <div class="meta-item meta-posts">
             <h3 class="meta-title">Featured Posts</h3>
-            {% for post in site.posts limit:15 %}
+            {% for post in site.posts limit:5 %}
             {% if post.istop %}
-            <li><a href="{{ post.url }}" title="Post title {{ post.title }}" data-hover="{{ post.title }}">{{ post.title }}</a></li>
+            <li><a href="{{ post.url }}" title="{{ post.title }}" data-hover="{{ post.title }}">{{ post.title }}</a></li>
             {% endif %}
             {% endfor %}
          </div>

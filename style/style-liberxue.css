@@ -1717,6 +1717,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 }
 
 #directory a:hover {
+    overflow: hidden;
     color: #eb5055;
 }
 
