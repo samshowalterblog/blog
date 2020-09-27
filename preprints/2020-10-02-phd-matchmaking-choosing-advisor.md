@@ -23,7 +23,7 @@ In high school, I had no idea how to determine which schools would be best for m
 
 To some extent, this was not a bad strategy. For undergraduates, there are many things that are shared across areas of study. Campus culture, extracurricular opportunities, and professional development resources are all central to student success as an undergraduate and tend to be shared across departments.
 
-However, what I failed to understand when I applied to undergraduate school was that **one college can have vastly different reputations based on your chosen field of study**. For example, Purdue University is particularly known for its engineering and science programs in the same way the University of Chicago is known for economics. Both schools are excellent, but if you compare Purdue's economics program to the University of Chicago, there is no contest. 
+However, what I failed to understand when I applied to undergraduate school was that **one university can have vastly different reputations based on your chosen field of study**. For example, Purdue University is particularly known for its engineering and science programs in the same way the University of Chicago is known for economics. Both schools are excellent, but if you compare Purdue's economics program to the University of Chicago, there is no contest. 
 
 I give this comparison not to disparage any particular college (I am sure Purdue's economics program is still excellent), but to communicate just how important it is to understand:
 1. Your personal interest in different fields of study
@@ -49,13 +49,13 @@ In particular, taking a tailored approach to your PhD search helps you uncover *
 
 > A hidden gem is a professor who is particularly successful and prodigious in your field, but works at a school that is not widely reknowned
 
-By contast, the **hype monster** is the opposite, and occurs when a very prestigious school's reputation in your specific field is overshadowed by its success in others. For example, many people associate Harvard with . They are not wrong to do so, Harvard is a staple of American education. However, if you had to choose between pursuing a Machine learning PhD at Harvard versus the University of Illinois, what is your gut reaction? If you say Harvard, then you have not done your research. Do yourself a favor and explore your specific program in depth. It will keep the hype monster at bay.
+By contast, the **hype monster** occurs when a very prestigious school's reputation in your specific field is overshadowed by its success in others. For example, many people associate Harvard with . They are not wrong to do so, Harvard is a staple of American education. However, if you had to choose between pursuing a Machine learning PhD at Harvard versus the University of Illinois, what is your gut reaction? If you say Harvard, then you have not done your research. Do yourself a favor and explore your specific program in depth. It will keep the hype monster at bay.
 
 ## Digging Deeper: Refining your search and being a PhD detective
 
-Most professors explicitly ask PhD applicants to not contact them directly unless they have been admitted by the school. They are simply too busy to field calls and emails from interested students. This poses a problem if you want to familiarize yourself with a lab and its culture. 
+Most professors explicitly ask PhD applicants to not contact them directly unless they have been admitted by the school. They are simply too busy to field calls and emails from interested students. This poses a problem if you want to familiarize yourself with a lab and its culture. Therefore, you must be a PhD detective and gather clues about these labs second-hand.
 
-A simple, yet very effective way to overcome this is to politely reach out to current graduate students in their lab. Will they be busy too? You bet. Still, if you can humbly ask for 10 minutes of their time you just might get it. These students have firsthand experience working with your advisor of interest; have questions ready and learn everything you can. Graduate students also have no reason to mislead you, and will be more inclined to share any unsavory details about their experience if you press them.
+One simple, yet very effective way to overcome this is to politely reach out to current graduate students in their lab. Will they be busy too? You bet. Still, if you can humbly ask for 10 minutes of their time you just might get it. These students have firsthand experience working with your advisor of interest; have questions ready and learn everything you can. Graduate students also have no reason to mislead you, and will be more inclined to share any unsavory details about their experience if you press them.
 
 As you go through this labor intensive process, be sure to start early and keep a log of your progress. It would certainly not be appreciated if you reached out to the same burnt out PhD student twice because you forgot you already contacted them. These people may be your peers, don't start off on the wrong foot.
 
@@ -65,7 +65,7 @@ Additionally, a simple spreadsheet offers an unparalleled basis for comparison a
 
 You only have so much money and time; there is no way to apply to all of the schools that interest you. In my case, I applied to 14 schools after making a spreadsheet comparing roughly 40 institutions across the United States. Your figures may be larger or smaller depending on your situation, but I recommend that you explore at least 2x the schools you intend to apply to. 
 
-> No one wants to go to a school below their potential, but even fewer want to be unanimously rejected
+> No one wants to go to a school below their potential, but **even fewer want to be unanimously rejected**
 
 At this point, you need to do some self-assessment. No one wants to go to a school below their potential, but even fewer want to be unanimously rejected. Be candid in reviewing your candidacy and invite the same feedback from others whose opinion you trust. Using this technique, I would prune your final application list to include 15% far-reach schools, 65% mid-reach schools, and 20% safe schools. Let's face it, almost every PhD program can be considered a reach if you view it by the numbers. With that in mind, develop a strong bank of schools that you consider just at or above your pay-grade, and shoot for the stars. The safety schools you applied to can help you sleep at night, and the far-reach schools give you a chance at winning the lottery.
 
