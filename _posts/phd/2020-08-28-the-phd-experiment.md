@@ -6,7 +6,7 @@ background-image: https://i.ibb.co/nsT0p0g/graduation.jpg"
 cite: 
 date:  2020-08-28
 category: PhD
-thumb: graduation
+thumb: novelty
 latest: true
 tags:
 - PhD

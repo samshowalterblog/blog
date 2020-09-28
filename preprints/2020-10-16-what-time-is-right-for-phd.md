@@ -16,4 +16,5 @@ tags:
 <img src="https://i.ibb.co/0qMkcLG/Time-Off.jpg" alt="application" border="0" width = "100%">
 <!-- Picture borrowed from CITE-->
 
-### Coming Up: 
+### Coming Up: The First 3 Months - What to Expect as a PhD Student
+
