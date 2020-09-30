@@ -1,7 +1,7 @@
 ---
 layout: blog
 istop: true
-title: "The first month: What to expect as a Computer Science PhD student"
+title: "The first three months: What to expect as a Computer Science PhD student"
 background-image: "https://i.ibb.co/mTqZZLp/uci-first-month.jpg"
 date:  2020-10-30
 category: PhD
