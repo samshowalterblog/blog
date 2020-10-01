@@ -16,4 +16,4 @@ tags:
 <img src="https://i.ibb.co/mTqZZLp/uci-first-month.jpg" alt="application" border="0" width = "100%">
 <!-- Picture borrowed from UCI-->
 
-### Coming Up: 
+### Coming Up: Money Time and Happiness - Balancing life as a PhD Student
