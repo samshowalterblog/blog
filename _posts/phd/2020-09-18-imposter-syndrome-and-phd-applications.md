@@ -10,7 +10,7 @@ thumb: graduation
 latest: true
 tags:
 - PhD
-- Applications
+- Application
 - Computer Science
 - Imposter Syndrome
 ---
