@@ -1,6 +1,6 @@
 ---
 layout: blog
-istop: true
+istop: false
 title: "Graduate Matchmaking: Choosing a PhD Program and Advisor"
 background-image: "https://i.ibb.co/kHx3BzT/matchmaking.jpg"
 date:  2020-10-02
