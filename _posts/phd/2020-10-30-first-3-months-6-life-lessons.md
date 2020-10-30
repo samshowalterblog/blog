@@ -66,7 +66,7 @@ For the remaining 23.5 hours of the day, my recommendation based on the past thr
 
 When I first started my work as a PhD student, some days I would finish work and be completely drained. Physically, mentally, the work felt exhausting. I had doubts, but also remembered that most things get easier with practice and time. Be deliberate with practicing efficiency, but also patient with yourself. No one is perfect.
 
-### 6. Make friends with failure
+## 6. Make friends with failure
 
 You will fail as a PhD student, and fail hard. The thing about research is no one has ever tried the things you are trying. There may be little or no precedent for your experiments and their probability for success. What is important in these moments is to not take the experience of failure personally. Show grace in the experience by clearly stating the logic behind your experimental setup and expected results.
 
@@ -78,6 +78,6 @@ Only a few days before the submission, we decided to check the dataset to see if
 
 > As a PhD student, your job is to learn how everything works
 
-### Coming up: Money, time, and happiness - Balancing life as a PhD Student
+## Coming up: Money, time, and happiness - Balancing life as a PhD Student
 
 The previous section poses an interesting, more general question: How do you balance your life as a PhD student? Friends, family, travel, exercise, food, finances... there are so many things to spend your time and money on. What balance works for you is likely unique, but my next post will examine some general tips I discovered that help me stay productive while attempting to live a balanced life.
