@@ -20,7 +20,7 @@ tags:
 
 ## 1. Keep your head above water: The initial adjustment to graduate school
 
-The graduate application process, like most academic programs, takes a long time. For roughly a year, you are either researching schools, filling out applications, waiting for responses, choosing between schools that accepted you, visiting them, and waiting for enrollment to begin. Because of this delay, as well as the additional effort it took to move across the country during the COVID-19 pandemic (I drove. It took a very long time.), my arrival to campus felt strangely anticlimactic. 
+The graduate application process, like most academic programs, takes a long time. For roughly a year, you are either researching schools, filling out applications, waiting for responses, choosing between schools that accepted you, visiting them, or waiting for enrollment to begin. Because of this delay, as well as the additional effort it took to move across the country during the COVID-19 pandemic (I drove. It took a very long time.), my arrival to campus felt strangely anticlimactic. 
 
 However, suddenly things began to take shape. Zoom calls with my advisor quickly transitioned from pleasantries to research goals. Emails originally  filled with local hikes and restaurant recommendations now came with half a dozen publications attached for me to read. Compared to undergrad and industry, where full meetings (classes) are spent giving overviews of the topic and general ideas, this felt like being tossed in an ocean of technicality.
 
