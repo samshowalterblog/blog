@@ -66,7 +66,7 @@ For the remaining 23.5 hours of the day, my recommendation based on the past thr
 
 When I first started my work as a PhD student, some days I would finish work and be completely drained. Physically, mentally, the work felt exhausting. I had doubts, but also remembered that most things get easier with practice and time. Be deliberate with practicing efficiency, but also patient with yourself. No one is perfect.
 
-### Make friends with failure
+### 6. Make friends with failure
 
 You will fail as a PhD student, and fail hard. The thing about research is no one has ever tried the things you are trying. There may be little or no precedent for your experiments and their probability for success. What is important in these moments is to not take the experience of failure personally. Show grace in the experience by clearly stating the logic behind your experimental setup and expected results.
 
