@@ -1,6 +1,6 @@
 ---
 layout: blog
-istop: true
+istop: false
 title: "What time is right? Deciding when to go to graduate school"
 background-image: "https://i.ibb.co/0qMkcLG/Time-Off.jpg"
 date:  2020-10-02
