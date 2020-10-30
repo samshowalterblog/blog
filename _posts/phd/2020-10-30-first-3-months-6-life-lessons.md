@@ -1,7 +1,7 @@
 ---
 layout: blog
 istop: true
-title: "6 Hard Lessons I Learned During My First Three Months as a PhD Studente"
+title: "The 6 Life Lessons I Learned During My First Three Months as a PhD Student"
 background-image: "https://i.ibb.co/mTqZZLp/uci-first-month.jpg"
 date:  2020-10-30
 category: PhD
@@ -10,7 +10,9 @@ thumb: graduation
 latest: true
 tags:
 - PhD
-- Application 
+- Machine Learning
+- Research
+- Graduate School
 ---
 
 <img src="https://i.ibb.co/mTqZZLp/uci-first-month.jpg" alt="application" border="0" width = "100%">
@@ -24,7 +26,7 @@ However, suddenly things began to take shape. Zoom calls with my advisor quickly
 
 Naturally then, my learning curve as a new graduate researcher was steep. When the state of the art in your field has just been published in a conference, tutorial videos or articles explaining the approach are probably unavailable. Moreover, these articles are written for researchers, by researchers. This felt like the wild west of learning: nothing holding back on technicality, and consistent intersection of multiple - sometimes unrelated - disciplines.
 
-## 2. Become a Sponge: Reading for your life
+## 2. Become a sponge: Reading for your life
 
 Most of us expect a few jitters when we start something new. I had felt them many times before: new jobs, schools, cities, you name it. However, something about my transition to a PhD student felt different. From the beginning, it was clear my advisor was expecting me to absorb this information independently. No classes were going to be held on my research topic. Moreover, it quickly became clear that this horizon - the edge of human knowledge - was constantly changing.
 
@@ -42,7 +44,7 @@ From here, more of my time was spent as a project (or even product) manager. Pro
 
 Instead of walking through code or papers, I would draw up a few PowerPoint Slides for each meeting with my group, sharing it with them afterwards. All of my code was managed through source control, which made adding contributors fairly trivial. Though these seemed like simple tricks, I quickly realized they were worth their weight in gold. Anyone who has had to manually merge a nasty code conflict or painstakingly attempt to clarify a technial presentation knows that these little backstops can save you hours of time.
 
-## 4. Balance Your Coursework: Forget (some of) what you learned in undergrad
+## 4. Balance yourself out: Forget (some of) what you learned in undergrad
 
 As a college student, your job is to learn a subject well enough that you can get a good (or even excellent) job in your field of choice upon graduation. How do employers determine the strength of your candidacy? There are many ways - projects, competitions, writing samples - but there is one single indicator that stands above the rest: GPA. GPA isn't everything. It is a cruel truth that an excellent GPA on its own will get you nothing more than your foot in the door at most prestigious companies. What's worse, a low GPA makes getting a competitive job exponentially more difficult directly out of school.
 
@@ -52,7 +54,7 @@ However, as a PhD student you are no longer measured by your GPA, but by your re
 
 I personally fell into this trap when I started my coursework. As an undergrad I placed a very high priority on courses. Even if it was half a letter grade difference, I would put in that extra time. As a PhD student, I started to do the same, and quickly fell behind on my research. Over the last month, I have begun shifting my focus to better balance these two objectives, but frankly I have a ways to go. Changing mindsets after 16+ years of focusing on grades is easier said than done.
 
-## 5. Keep Time for You
+## 5. Keep time for you
 
 A PhD is a grind, no two ways about it. It is also a marathon. Tearing out of the gate and pulling all nighters to get ahead is a losing strategy. Don't be afraid to challenge yourself and little and step out of your comort zone... just don't step too far. Everyone has a story of someone burning out after a few months of pushing too hard, be it research, classes, or a job. Every week (or even better, every day), dedicate some time to keeping yourself balanced and happy. Make this non-negotiable. Deadlines or not, take a half hour to do something that helps you decompress.
 
@@ -64,7 +66,7 @@ For the remaining 23.5 hours of the day, my recommendation based on the past thr
 
 When I first started my work as a PhD student, some days I would finish work and be completely drained. Physically, mentally, the work felt exhausting. I had doubts, but also remembered that most things get easier with practice and time. Be deliberate with practicing efficiency, but also patient with yourself. No one is perfect.
 
-### Stare Failure in the Eye 
+### Make friends with failure
 
 You will fail as a PhD student, and fail hard. The thing about research is no one has ever tried the things you are trying. There may be little or no precedent for your experiments and their probability for success. What is important in these moments is to not take the experience of failure personally. Show grace in the experience by clearly stating the logic behind your experimental setup and expected results.
 
@@ -76,6 +78,6 @@ Only a few days before the submission, we decided to check the dataset to see if
 
 > As a PhD student, your job is to learn how everything works
 
-### Coming Up: Money Time and Happiness - Balancing life as a PhD Student
+### Coming up: Money, time, and happiness - Balancing life as a PhD Student
 
 The previous section poses an interesting, more general question: How do you balance your life as a PhD student? Friends, family, travel, exercise, food, finances... there are so many things to spend your time and money on. What balance works for you is likely unique, but my next post will examine some general tips I discovered that help me stay productive while attempting to live a balanced life.
