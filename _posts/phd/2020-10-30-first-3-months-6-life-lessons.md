@@ -1,6 +1,6 @@
 ---
 layout: blog
-istop: true
+istop: false
 title: "The 6 Life Lessons I Learned During My First Three Months as a PhD Student"
 background-image: "https://i.ibb.co/mTqZZLp/uci-first-month.jpg"
 date:  2020-10-30

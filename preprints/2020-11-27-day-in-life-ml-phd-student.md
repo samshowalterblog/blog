@@ -27,24 +27,24 @@ Now that I am a graduate student myself, I can first tell you that **not all gra
 
 **6:00 a.m.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Wake up
 >  
->   Easier said than done
+>   Easier said than done, but once I made it a habit I stuck with it
 
 
 **6:30 a.m.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Exercise (running, cycling, swimming, or weightlifting)
 
 >It took me some time to develop this habit, but I find that the easiest way to get the brain going is to get the body going first. Personally, I am a fan of the triathlon sports and weightlifting, but any activity that moves you around works. Plus, there is even some [science](https://www.scientificamerican.com/article/how-exercise-affects-your-brain/) to support this theory!
 
-**7:50 a.m.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Drink a smoothie for breakfast and write my plan for the day 
+**7:50 a.m.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Have breakfast and write my plan for the day 
 
 > In general, I think it is difficult to keep track of everything that needs to get done in a day. For me, simply writing everything down at the beginning gives me some extra brain power to devote to specific tasks and doesn't make me feel like I am juggling so many activities
 
-**8:00 a.m.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Read papers 
+**8:00 a.m.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Read 
 
-> If you are a PhD student, then you quickly become comfortable with always have a literal pile of papers to read. It is no coincidence that becoming an expert is something is challenging. Every week new ideas are published in your discipline, no matter what the discipline is. Reading papers is a losing battle, but one you still have to fight.
+> If you are a PhD student, then you quickly become comfortable with always have a literal pile of conference publications / textbook snippets/ online tutorials to read. It is no coincidence that becoming an expert is something is challenging. Every week new ideas are published in your discipline, no matter what the discipline is. Reading is a losing battle, but one you still have to fight.
 
-**8:50 a.m.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Summarize articles, then save or share information as needed with group via [Slack](https://www.slack.com)
+**8:50 a.m.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Summarize reading notes, then save or share information as needed with group via [Slack](https://www.slack.com)
 
-> This one may be lab group specific, but generally I try and verify I understandd the papers I read by taking notes and compressing them into a short summary. This can be very helpful for group discussions.
+> This one may be lab group specific, but generally I try and verify I understand what I read by taking notes and compressing them into a short summary. This can be very helpful for group discussions.
 
 **9:00 a.m.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lab group research meeting. 
 
@@ -98,17 +98,17 @@ Now that I am a graduate student myself, I can first tell you that **not all gra
 
 **10:30 p.m.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Go to sleep
 
-> I am sure some PhD student's will gawk at this. No, I don't get to sleep this early every day, but I tend towards being an early riser as opposed to the PhD standard of being a night-owl. If I have a deadline approaching. I will usually get up a few hours earlier instead of staying up later. Something about that better suits me.
+> I am sure some PhD student's will gawk at this. No, I don't get to sleep this early every day, but I tend towards being an early riser as opposed to the PhD standard of staying up late. If I have a deadline approaching. I will usually get up a few hours earlier instead of staying up later. Something about that better suits me.
 > 
 ## Key Takeaways
 
-This is sort of a trick question. The main takeaway is that **there is nothing special about the routine of a PhD student**, at least when compared to undergraduates and those working in industry. I suppose we dedicate more of our time to reading and homework, but that is expected in a program and necessitates achieving world-class expertise in a field. If you view the PhD as a job (which it is) where your duties are to conduct research, it is not all that dissimilar to any other profession.
+This is sort of a trick question. The main takeaway is that **there is nothing special about the routine of a PhD student**, at least when compared to undergraduates and those working a job. I suppose we dedicate more of our time to reading and homework, but that is expected in a program and necessitates achieving world-class expertise. If you view the PhD as a job (which it is) where your duties are to conduct research, it is not all that dissimilar to any other profession.
 
-Now, a benefit of this job is that it is heavily dedicated towards learning a diverse array of concepts and applying them to explore the cutting edge of your field. Over time, the day-to-day pursuit of new knowledge adds up, eventually giving professors an all-knowing aura that we may have felt as an undergraduate. I think a better characterization professors is that they have taught themselves **to learn well**. For some, this ability to grasp and retain concepts, regardless of the topic, is an incredibly satisfying skill. If you feel the same way, then perhaps you should consider a PhD. The daily routine of a PhD student tends to be ordinary, but over time can lead to extraordinary growth.
+Now, a benefit of this job is that it is heavily dedicated towards learning a diverse array of concepts and applying them to explore the cutting edge of your field. Over time, the day-to-day pursuit of new knowledge adds up, eventually giving professors an all-knowing aura that we may have felt as an undergraduate. I think a better characterization of professors is that they have taught themselves **to learn well**. For some, this ability to grasp and retain concepts, regardless of the topic, is an incredibly satisfying skill. If you feel the same way, then perhaps you should consider a PhD. The daily routine of a PhD student tends to be ordinary, but over time can lead to extraordinary growth.
 
 > The daily routine of a PhD student tends to be ordinary, but over time can lead to extraordinary growth.
 
-## Coming Up: Planning your Summers as a PhD Student
+## Coming Up: Planning your summers as a PhD Student
 
 One of the best parts of being a PhD student is having the freedom to choose different opportunities to pursue over the summer. Not only does this give you a chance to explore a variety of different positions, it diversifies your research by introducing new topics and people into your life. However, depending on your interests and PhD progress, your summer months may be better spent pursuing industry positions or academic placements. My next post will delve into the details of choosing how to choose a summer opportunity that best fits your interests.
 
