@@ -67,8 +67,9 @@ Beyond school, money, and research, it is important to keep time for cultivating
 
 On those days where it feels things have been going poorly since you woke up, it is often very helpful to have a friend, partner, or family member to lean on and discuss your situation. Listen to their input closely; you are likely too deep in the trees to see the forest around you. Stay diligent with your work, but when a friend invites you out to lunch or on a trip, don't always shirk them simply because you are worried about a deadline. Remember, work will still be there, and it will never ask you out to lunch.
 
-> Remember, work will still be there, and it will never ask you out to lunch
-> 
+> Remember, work will still be there, and it will never ask you out to lunch 
+
+
 ## The bottom line: Your health
 
 A PhD is rarely easy, but nothing will make it more difficult than poor health. Sometimes it can be easy to forget about taking care of the small things as we rush around as busy students (this goes for undergrads as well). What you eat, how much you sleep, and the type of activities you do throughout the day add up, for better or worse. Do yourself a favor, and try and keep yourself tied to a **routine**. Perhaps walking before dinner, while you chew on some ideas you have for research, fits nicely with your schedule. Maybe getting a bike ride or a gym session in before class is more your thing. Regardless, don't neglect yourself. A PhD will come and go, but your health sticks with you always.
