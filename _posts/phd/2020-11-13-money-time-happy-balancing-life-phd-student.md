@@ -1,6 +1,6 @@
 ---
 layout: blog
-istop: true
+istop: false
 title: "Money, Time, and Relationships: Balancing life as a PhD student"
 background-image: "https://i.ibb.co/3WN6CCD/work-life-balance.jpg"
 date:  2020-11-13
