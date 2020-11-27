@@ -41,7 +41,7 @@ Though you do need to maintain a certain GPA to graduate, a PhD is a research de
 
 ## Making ends meet: Living on a student's budget
 
-The finances of a PhD student are a fascinating collision between corporate budgeting and academic subsidy. Universities are businesses, and to some extend every lab is its own independent organization. Instead of working a 9-to-5 your advisor will likely fund their lab by hunting for grants. The money they receive then subsidizes the expenses of some or all of their students. If the professor does not snag enough grant money, their students will have to support themselves as teaching assistants. Stipend's vary from student to student and across programs, but suffice it to say, you will not be making very much.
+The finances of a PhD student are a fascinating collision between corporate budgeting and academic subsidy. Universities are businesses, and to some extent every lab is its own independent organization. Instead of working a 9-to-5 your advisor will likely fund their lab by hunting for grants. The money they receive then subsidizes the expenses of some or all of their students. If the professor does not snag enough grant money, their students will have to support themselves as teaching assistants. Stipend's vary from student to student and across programs, but suffice it to say, you will not be making very much.
 
 In fact, there is so much variation here that it is difficult to write a succinct, general blog post about it. Instead, I will briefly touch on my experience and compare it to what I have heard about other institutions.
 
