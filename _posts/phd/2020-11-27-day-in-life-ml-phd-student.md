@@ -100,6 +100,8 @@ Now that I am a graduate student myself, I can first tell you that **not all gra
 
 > I am sure some PhD student's will gawk at this. No, I don't get to sleep this early every day, but I tend towards being an early riser as opposed to the PhD standard of staying up late. If I have a deadline approaching. I will usually get up a few hours earlier instead of staying up later. Something about that better suits me.
 > 
+
+
 ## Key Takeaways
 
 This is sort of a trick question. The main takeaway is that **there is nothing special about the routine of a PhD student**, at least when compared to undergraduates and those working a job. I suppose we dedicate more of our time to reading and homework, but that is expected in a program and necessitates achieving world-class expertise. If you view the PhD as a job (which it is) where your duties are to conduct research, it is not all that dissimilar to any other profession.
