@@ -887,7 +887,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     font-family: -apple-system, SF UI Text, Arial;
     word-break: break-word;
     color: #313131;
-    line-height: 30px;
+    line-height: 20px;
     overflow: hidden;
     text-overflow: ellipsis;
     display: -webkit-box;
@@ -899,7 +899,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     font-size: 15px;
     word-break: break-word;
     color: #eb5055;
-    line-height: 30px;
+    line-height: 20px;
     overflow: hidden;
     text-overflow: ellipsis;
     display: -webkit-box;
