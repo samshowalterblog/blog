@@ -3,7 +3,7 @@ layout: blog
 istop: false
 title: "What time is right? Deciding when to go to graduate school"
 background-image: "https://i.ibb.co/0qMkcLG/Time-Off.jpg"
-date:  2020-10-02
+date:  2020-10-16
 category: PhD
 cite: https://studybreaks.com/college/time-off-graduate-school/
 thumb: graduation
