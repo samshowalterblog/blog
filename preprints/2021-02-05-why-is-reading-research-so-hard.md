@@ -14,7 +14,7 @@ tags:
 - Imposter Syndrome
 ---
 
-<img src="https://i.ibb.co/F0S2jk3/internship-academic-industry.jpg" alt="application" border="0" width = "100%">
+<img src="https://i.ibb.co/LrT5mmp/Theta-Zero-Derivation.png" alt="notation_spec_theta0" border="0" width = "100%">
 <!-- Picture borrowed from CITE-->
 
 

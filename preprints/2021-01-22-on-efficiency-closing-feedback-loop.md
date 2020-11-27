@@ -13,7 +13,8 @@ tags:
 - Productivity
 ---
 
-<img src="https://i.ibb.co/F0S2jk3/internship-academic-industry.jpg" alt="application" border="0" width = "100%">
+
+<img src="https://i.ibb.co/gdqzjcH/efficiency-banner.png" alt="efficiency" border="0" width = "100%">
 <!-- Picture borrowed from CITE-->
 
 ## What does it mean to be efficient?

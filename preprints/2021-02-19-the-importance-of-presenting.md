@@ -13,7 +13,7 @@ tags:
 - Presenting
 ---
 
-<img src="https://i.ibb.co/F0S2jk3/internship-academic-industry.jpg" alt="application" border="0" width = "100%">
+<img src="https://i.ibb.co/MDFQkkT/theory.png" alt="ml_theory" border="0" width = "100%">
 <!-- Picture borrowed from CITE-->
 
 

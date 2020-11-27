@@ -14,7 +14,7 @@ tags:
 - Visit Day
 ---
 
-<img src="https://i.ibb.co/F0S2jk3/internship-academic-industry.jpg" alt="application" border="0" width = "100%">
+<img src="https://i.ibb.co/60QHY1d/lin-reg.png" alt="func_approx" border="0" width = "100%">
 <!-- Picture borrowed from CITE-->
 
 
