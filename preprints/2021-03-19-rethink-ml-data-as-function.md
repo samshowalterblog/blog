@@ -3,7 +3,7 @@ layout: blog
 istop: true
 title: "Why viewing Machine Learning as function approximation can make you a better Data Scientist"
 background-image: ""
-date:  2021-03-05
+date:  2021-03-19
 category: PhD
 cite: 
 thumb: graduation
