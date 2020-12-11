@@ -82,7 +82,7 @@ When I decided to start a blog, I was not sure if it would be useful for anyone.
 
 ## Coming Up: 
 
-With the holidays rolling around, my next post will be postponed until January 8, 2021. In the first post of the new year, I plan on writing out a few of the New Year's resolutions I have as PhD student. Moreover, I intend to post more technical blogs about my research and other interesting capabilities of machine learning. If you have a concept or idea you think would be exciting, feel free to send it to me through (https://samshowalter.github.io/#contact)[my website].
+With the holidays rolling around, my next post will be postponed until January 8, 2021. In the first post of the new year, I plan on writing out a few of the New Year's resolutions I have as PhD student. Moreover, I intend to post more technical blogs about my research and other interesting capabilities of machine learning. If you have a concept or idea you think would be exciting, feel free to send it to me through [my website](https://samshowalter.github.io/#contact).
 
 
 
