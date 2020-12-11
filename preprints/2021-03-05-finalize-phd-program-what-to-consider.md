@@ -18,6 +18,12 @@ tags:
 <!-- Picture borrowed from CITE-->
 
 
+## Its not just about research anymore
+
+## Read the room 
+
+## 
+
 ## Coming Up
 
 

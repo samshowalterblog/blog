@@ -1,6 +1,6 @@
 ---
 layout: blog
-istop: true
+istop: false
 title: "Squeezing hours: The daily routine of a Machine Learning PhD student"
 background-image: "https://i.ibb.co/ScmQX7w/child-boy-daily-routine-vector-set-53562-4228.jpg" 
 date:  2020-11-27
@@ -19,7 +19,7 @@ tags:
 
 ## How do all these geniuses spend their time?
 
-When I was young, my grandfather took me to his retirement party. After receiving a PhD in STEM education, he dedicated his life to improving math and science education across Indiana. As we all sat around with refreshments, my grandfather told stories about the incredibly bright students he got to meet through the years and all the good they did in their own careers. At the time, I wasn't interested in his stories as much as these "smart students" themselves. What did they do to get so smart? How did these brainiacs fill their waking hours? 
+When I was young, my grandfather took me and the rest of my family to his retirement party. After receiving a PhD in STEM education, he dedicated his life to improving math and science education across Indiana. As we all sat around with refreshments, my grandfather told stories about the incredibly bright students he got to meet through the years and all the good they did in their own careers. At the time, I wasn't interested in his stories as much as these "smart students" themselves. What did they do to get so smart? How did these brainiacs fill their waking hours? 
 
 Now that I am a graduate student myself, I can first tell you that **not all graduate students are smart**, despite what anyone tells you. In fact, as you will see in a later post, being a genius does not necessarily make you a great PhD student (though, admittedly, it helps). Beyond this, I figured it may be useful to outline my own day for anyone that is curious about the routine of a PhD student. Obviously, schedules vary considerably between people, **especially** PhD students who are not bound by a traditional work week. All the same, maybe some parts of the schedule that works for me can help you too. 
 
