@@ -5,7 +5,7 @@ url:              https://samshowalterblog.github.io
 signoff:          "Sam Showalter" # Your name
 #share:            true 
 
-paginate: 15
+paginate: 9
 paginate_path: "showalterpage:num"
 gems: [jekyll-paginate]
 links:
