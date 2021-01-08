@@ -1,6 +1,6 @@
 ---
 layout: blog
-istop: true
+istop: false
 title: "Academia or Industry: Planning your summer as a Computer Science PhD student"
 background-image: "https://i.ibb.co/F0S2jk3/internship-academic-industry.jpg"
 date:  2020-12-11
