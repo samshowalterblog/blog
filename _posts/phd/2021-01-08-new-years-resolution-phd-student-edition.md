@@ -22,7 +22,7 @@ To me, New Year's resolutions have always felt a little strange. At the turn of 
 
 Generally, this does not conjure up thoughts of success. Instead of a _Rocky_ montage of running through the snow and pumping fists, New Year's resolution's look more like a gym that is unusually crowded for three weeks in January and then empty for the following 11 months. Why then, you might ask, am I creating a resolutions post at all?
 
-As kitchy as New Year's can be, it is born of good intentions. Who doesn't want to improve? Even those who habitually fail to honor their resolutions usually still make it to the proverbial gym for three weeks in January. Better than nothing, right? Most importantly, though, I think  New Year's resolutions are notoriously unsuccessful because there is a tendency to focus solely on results (the **what**), with little consideration of **how** to achieve them and **why** they are worth the effort in the first place.
+As kitschy as New Year's can be, it is born of good intentions. Who doesn't want to improve? Even those who habitually fail to honor their resolutions usually still make it to the proverbial gym for three weeks in January. Better than nothing, right? Most importantly, though, I think  New Year's resolutions are notoriously unsuccessful because there is a tendency to focus solely on results (the **what**), with little consideration of **how** to achieve them and **why** they are worth the effort in the first place.
 
 ## Why do you want the things you want?
 
