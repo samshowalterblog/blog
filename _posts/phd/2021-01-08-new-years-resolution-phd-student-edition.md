@@ -1,6 +1,6 @@
 ---
 layout: blog
-istop: true
+istop: false
 title: "Goals or behaviors? A critical look at New Year's resolutions"
 background-image: "https://i.ibb.co/Vj31Jx3/resolutions.jpg"
 date:  2021-01-08
