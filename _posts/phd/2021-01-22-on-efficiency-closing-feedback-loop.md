@@ -2,7 +2,7 @@
 layout: blog
 istop: true
 title: "On Efficiency: What a PhD taught be about learning and working smart"
-background-image: ""
+background-image: "https://i.ibb.co/gdqzjcH/efficiency-banner.png"
 date:  2021-01-22
 category: PhD
 cite: https://blogs.oracle.com/datascience/how-data-science-can-improve-business-efficiency
