@@ -1,5 +1,6 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+{% include mathjax_support.html %}
 <title>{{ page.title }} - {{ site.title }}</title>
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="{{ page.title }} - {{ site.title }}">
@@ -16,22 +17,6 @@
 <link rel="manifest" href="/manifest.json">
 <link rel="shortcut icon" href="{{ site.url }}/style/favicons/favicon.ico" type="image/x-icon">
 <meta name="keywords"  content="{{ page.content | strip_html | strip_newlines | truncate: 120 }}" property='og:description' />
-<!-- -------------------- -->
-<head>
-...
-<!-- <script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script> -->
-<script type="text/x-mathjax-config">
-MathJax.Hub.Config({
-   CommonHTML: { scale: 300, linebreaks: { automatic: true } },
-  tex2jax: {
-    inlineMath: [ ['$','$'] ],
-    processEscapes: true
-  }
-});
-</script>
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-</head>
-<!-- -------------------- -->
 <meta name="description" content="nothing is more practical than a good theory" />
 <link href="https://cdn.bootcss.com/highlight.js/9.10.0/styles/xcode.min.css" rel="stylesheet">
 <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans" />
