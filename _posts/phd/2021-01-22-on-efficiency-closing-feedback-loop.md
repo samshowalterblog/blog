@@ -21,12 +21,12 @@ tags:
 
 Efficiency in people is a difficult trait to quantify. We know it when we see it and just as easily can point out when we don't. When efficiency is task-centric, such a balancing a budget or developing software, it is relatively straightforward to track progress and measure success. Consider the quality (and perhaps quantity) of the final product, the time it took to complete, and the resources that were needed to complete it. Integrate these three traits together into something like the following (not a real metric), as you have a proxy for true efficiency!
 
-&& \text{Efficiency}_\text{task} = \frac{
+$$ \text{Efficiency}_\text{task} = \frac{
 \text{Quality}_{\text{result}}*\text{Quantity}_{\text{result}}
 }
 {
 \text{Time}*\text{Resources}
-}&&
+}$$
 
 In science, business, economics, and many other fields, there are formalized notions of efficiency for everything from budgeting to energy. Why then, is it so difficult to pin down a theorem for human efficiency? Despite what some believe, human efficiency is not a solved science; if it were, the thousands of self-help productivity books would all say the exact same thing (or at least converge to it in time). Private and public organizations could (and likely, would) standardize their approach to human resources - an enormous "if-else" lookup table on how to eek out every drop of (healthy, productivity-driven) performance from their people. Without further consideration, this doesn't sound so terrible. We all want to perform well, and naturally would seek out environments that optimize us: a human gradient descent.
 
