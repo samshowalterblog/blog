@@ -2,7 +2,7 @@
 layout: blog
 istop: true
 title: "Notation and Formality: Thoughts on why research publications are confusing"
-background-image: ""
+background-image: "https://i.ibb.co/bRkLHwP/slope.jpg"
 date:  2021-02-05
 category: PhD
 cite: 

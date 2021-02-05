@@ -1,6 +1,6 @@
 ---
 layout: blog
-istop: true
+istop: false
 title: "On Efficiency: What a PhD taught me about learning and working smart"
 background-image: "https://i.ibb.co/gdqzjcH/efficiency-banner.png"
 date:  2021-01-22
