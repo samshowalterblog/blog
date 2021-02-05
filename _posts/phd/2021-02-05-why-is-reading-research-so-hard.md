@@ -8,7 +8,7 @@ category: PhD
 cite: 
 thumb: graduation
 latest: true
-tags
+tags:
 - Reading
 - Education
 - Self-learning
