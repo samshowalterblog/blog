@@ -39,11 +39,15 @@ As a toy example, consider the following function and optimization.
 --------------------------------
 Let $\mathbf{X}$ represent the set of observation vectors $\{\mathbf{x}^{(1)},  \mathbf{x}^{(2)}, ... ,  \mathbf{x}^{(m)}\}$ where  $\mathbf{x}^{(i)} \in \mathbb{R}^{n}$. For each input vector $\mathbf{x}^{(i)}$ there exists a label $y_i \in \mathbb{R}$ mapping the input to a continuous, real-valued target. Furthermore, consider the function $f_\theta(.)$ to be an affine mapping from $\mathbb{R}^{n} \rightarrow \mathbb{R}$ of the form:
 
-$$ f_{\theta}(\mathbf{x}^{(i)}) = \mathbf{w}^{T} \mathbf{x}^{(i)} + \mathbf{b} $$
+$$ 
+f_{\theta}(\mathbf{x}^{(i)}) = \mathbf{w}^{T} \mathbf{x}^{(i)} + \mathbf{b} 
+$$
 
 The generating data distribution of $\mathbf{X}$ is assumed to be Gaussian, and therefore a mean squared error objective function was utilized to train the model. 
 
-&&L(\mathbf{X}, \mathbf{y}) =  \frac{1}{m} \sum_{i = 1}^{m}{(f_{\theta}(\mathbf{x}^{(i)}) - y_i)^2}&&
+&&
+L(\mathbf{X}, \mathbf{y}) =  \frac{1}{m} \sum_{i = 1}^{m}{(f_{\theta}(\mathbf{x}^{(i)}) - y_i)^2}
+&&
 
 Though an analytical solution was possible, due to the large input space $n$ and number of data points $m$ stochastic gradient descent (SGD) was utilized to iteratively converge on the optimal parameters $\theta' = \{\mathbf{w'}, \mathbf{b'}\}$.
 
@@ -62,7 +66,7 @@ The length of your list will differ based on your expertise, but even if the pas
 
 As you likely guessed, the arcane description above has some connection to your vast bank of previous knowledge. Even if you scorn math, I bet you have seen the following before:
 
-$$ y = mx + b $$
+&& y = mx + b &&
 
 Indeed, most likely remember slope-intercept form from school, even if they have not used it in decades. Intuitively, you can see that $m$ scales $x$ larger or smaller and $b$ shifts it up and down. The purpose of all this shifting is to ultimately match up points on an x-y plane such that a line passes as close to them as possible. As you got older, perhaps you started to see $y$ get replaced with $f(x)$, a slightly more functional form.
 
