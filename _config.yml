@@ -27,6 +27,7 @@ links:
 permalink: /:year/:month/:day/:title.html
 
 markdown: kramdown
+  mathjax: true
 highlighter: rouge
 kramdown:
   input: GFM
