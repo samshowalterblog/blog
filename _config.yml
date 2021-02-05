@@ -26,14 +26,14 @@ links:
 #permalink:        /:categories/:title.html
 permalink: /:year/:month/:day/:title.html
 
+defaults:
+  - values:
+      layout: "default"
+
 markdown: kramdown
-# usemathjax: true
+usemathjax: true
 highlighter: rouge
 kramdown:
   input: GFM
   auto-ids: true
   syntax_highlighter: rouge
-
-defaults:
-  - values:
-      layout: "default"
