@@ -39,9 +39,9 @@ As a toy example, consider the following function and optimization.
 --------------------------------
 Let $\mathbf{X}$ represent the set of observation vectors $\{\mathbf{x}^{(1)},  \mathbf{x}^{(2)}, ... ,  \mathbf{x}^{(m)}\}$ where  $\mathbf{x}^{(i)} \in \mathbb{R}^{n}$. For each input vector $\mathbf{x}^{(i)}$ there exists a label $y_i \in \mathbb{R}$ mapping the input to a continuous, real-valued target. Furthermore, consider the function $f_\theta(.)$ to be an affine mapping from $\mathbb{R}^{n} \rightarrow \mathbb{R}$ of the form:
 
-$$ 
+$ 
 f_{\theta}(\mathbf{x}^{(i)}) = \mathbf{w}^{T} \mathbf{x}^{(i)} + \mathbf{b} 
-$$
+$
 
 The generating data distribution of $\mathbf{X}$ is assumed to be Gaussian, and therefore a mean squared error objective function was utilized to train the model. 
 
