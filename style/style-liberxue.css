@@ -52,10 +52,6 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
-.MathJax {
-    font-size: 12pt;
-}
-
 body > * :first-child {
     margin-top: 0 !important;
 }
