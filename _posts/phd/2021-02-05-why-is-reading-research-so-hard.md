@@ -43,7 +43,9 @@ $$ f_{\theta}(\mathbf{x}^{(i)}) = \mathbf{w}^{T} \mathbf{x}^{(i)} + \mathbf{b} $
 
 The generating data distribution of $\mathbf{X}$ is assumed to be Gaussian, and therefore a mean squared error objective function was utilized to train the model. 
 
-$$ L(\mathbf{X}, \mathbf{y}) =  \frac{1}{m} \sum_{i = 1}^{m}{(f_{\theta}(\mathbf{x}^{(i)}) - y_i)^2} $$
+$$ 
+L(\mathbf{X}, \mathbf{y}) =  \frac{1}{m} \sum_{i = 1}^{m}{(f_{\theta}(\mathbf{x}^{(i)}) - y_i)^2} 
+$$
 
 Though an analytical solution was possible, due to the large input space $n$ and number of data points $m$ stochastic gradient descent (SGD) was utilized to iteratively converge on the optimal parameters $\theta^{*} = \{\mathbf{w}^{*}, \mathbf{b}^{*}\}$.
 
