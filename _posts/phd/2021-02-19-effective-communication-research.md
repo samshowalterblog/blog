@@ -1,6 +1,6 @@
 ---
 layout: blog
-istop: true
+istop: false
 title: "Present ideas like they're for sale: The role of communication in research and innovation"
 background-image: "https://i.ibb.co/z6VMGnn/technical-diagram.gif"
 date:  2021-02-19
