@@ -16,14 +16,13 @@ description: "Catalogue of old blog posts"
             {% endif %}
             <div class="post-list-item">
                <div class="post-list-item-container">
-                  
                   <div class="showalter-blog-title">
                      {{ post.category }}
                   </div>
                   <div class="item-label">
                      <div class="item-title">
                         <a href="{{ site.url }}{{ post.url }}" title="{{  post.title }}">{{ post.title }}</a>
-                     </div></div>
+                     </div>
                      <div class="item-meta clearfix">
                         <div class="item-meta-date">
                            {{ post.date | date: "%F"}}
@@ -32,6 +31,7 @@ description: "Catalogue of old blog posts"
                   </div>
                </div>
             </div>
+         </div>
             {% if forloop.last %}
          </div>
       </div>
