@@ -2051,11 +2051,11 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     }
 
     .post-header-thumb-cover {
-        height: 248px;
+        height: 300px;
     }
 
     .post-header-thumb-op {
-        height: 248;
+        height: 300;
     }
 
     .post-header-thumb-container {
