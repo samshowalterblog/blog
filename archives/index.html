@@ -14,8 +14,9 @@ description: "Catalogue of old blog posts"
       <div class="post-lists">
          <div class="post-lists-body">
             {% endif %}
-            <a href="{{ site.url }}{{ post.url }}" title="{{  post.title }}">
+            
             <div class="post-list-item">
+               <a href="{{ site.url }}{{ post.url }}" title="{{  post.title }}">
                <div class="post-list-item-container">
                   <div class="showalter-blog-title">
                      {{ post.category }}
@@ -31,8 +32,9 @@ description: "Catalogue of old blog posts"
                      </div>
                   </div>
                </div>
+               </a>
             </div>
-            </a>
+            
             {% if forloop.last %}
          </div>
       </div>
