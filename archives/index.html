@@ -14,28 +14,24 @@ description: "Catalogue of old blog posts"
       <div class="post-lists">
          <div class="post-lists-body">
             {% endif %}
-            
             <div class="post-list-item">
                <div class="post-list-item-container">
+                  <a href="{{ site.url }}{{ post.url }}" title="{{  post.title }}">
                   <div class="showalter-blog-title">
-                     <a href="{{ site.url }}{{ post.url }}" title="{{  post.title }}">{{ post.category }}</a>
+                     {{ post.category }}
                   </div>
                   <div class="item-label">
                      <div class="item-title">
-                        <a href="{{ site.url }}{{ post.url }}" title="{{  post.title }}">{{ post.title }}</a>
-                     </div></div>
+                        {{ post.title }}
+                     </div>
                      <div class="item-meta clearfix">
                         <div class="item-meta-date">
                            {{ post.date | date: "%F"}}
                         </div>
                      </div>
-                  </div>
-                  
+                  </div></a>
                </div>
             </div>
-         </div>
-         
-            
             {% if forloop.last %}
          </div>
       </div>
