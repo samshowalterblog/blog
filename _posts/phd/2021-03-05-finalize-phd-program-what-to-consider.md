@@ -18,13 +18,13 @@ tags:
 <!-- Picture borrowed from CITE-->
 
 
-## Its not just about research anymore
+# Its not just about research anymore
 
 If you follow this blog, you know it was created to shed light on life as a PhD applicant and student. Though some of my recent posts have evolved into general dicussions applicable to a broad audience, this one will be more targeted. Right now, PhD applicants from across the country are in the proces of hearing back from schools. Ideally, at least one response will be an acceptance. **If this describes you, congratulations!** The rest of this post is for you, and will include tips on making your final decision.
 
 As the title of this post implies, your final decision should no longer just be about the type of research your potential advisor does. Research is a huge part of what you will work on as a PhD student, but it _won't be your whole life_. You are a human, not a robot built to churn out publications. Now, you won't be given a PhD just for being human, only research will give you that. With that said, ignoring your personal needs will surely lead to poor research and a bad time overall. The rest of this post discusses ways that you can predict how well a school's culture fits to your goals and personality. 
 
-## Read the room
+# Read the room
 
 A large part of a PhD acceptance is the opportunity to visit the school, free of charge. Usually over a long weekend, the school will pick up your tab and fly you out in style. In my experience, it tends to be the most glamorous part of the entire PhD application process. As you set up your visit and interact with the school, **pay attention to everything**. My sample size is small (I only visited four schools), but I have found that a school's culture - particularly how it regards PhD students - is manifested in how smooth and accommodating its visit day is. There are exceptions to every rule in this case, but pay attention all the same. Is the school being particularly tight on how its budgeting your visit? How quickly do visit-day facilitators get back to you if you ask a question? What role (if any) does your potential advisor take in facilitating this process?
 
@@ -34,7 +34,7 @@ Inevitably, you will get the chance to hear from a graduate school panel. Overal
 
 As a semi-interactive, fun exercise, I have distilled the notes I took from my four visit days, obscuring the names of the schools. These notes represent my personal experience and opinion, and should therefore not be taken as gospel. To perhaps supplement your own decisions, think about these same questions when you go on your visits (which likely will be virtual; we will get to that later).
 
-## A case study: Which school would you choose?
+# A case study: Which school would you choose?
 
 **School A**: School A was a fairly well known school for my program of choice. Located in a naturally beautiful part of the United States, it boasted a fairly large program and exciting research. The first thing I noticed was that the acceptance was impersonal, not tied to any particular advisor. Some schools will simply accept promising students and work out advising later on. Next, I was struck by how difficult it was to set up my visit. Vague instructions about when to arrive and leave ("book your return flight early afternoon saturday" - _how early? noon? 3?_), paired with unclear reimbursement structure led to several questions. Fortunately, my emails were answered in a timely and considerate manner.
 
@@ -65,7 +65,7 @@ Moreover, this potential advisor served as a liaison for my visit, helping to di
 
 **School D**: School D has many commonalities with School C. Advisor reached out, interview, liaison, etc. The primary different I noticed was that this advisor was a young professor whose career was just taking off. Their publication record was extremely impressive, but relatively narrow in scope. By contrast, School C's advisor was an older professor with a larger group and a broader research objective. Both of these individuals were considerate and accommodating throughout the visit.
 
-## Go beyond the classroom and choose a lifestyle
+# Go beyond the classroom and choose a lifestyle
 
 If you had gone on these visits, which school would you choose? For me, I tend to appreciate demonstrated interest and personality matching over prestige. In turn, the impersonal acceptance letters from Schools A and B, coupled with their visits, made them easy exclusions despite their prestige. This, however, left a very difficult decision, one that I chewed on for weeks. 
 
@@ -78,7 +78,7 @@ Having exhausted all of the information I could think of for research and educat
 
 No one should choose a graduate program because of the weather, but it is naive to assume that such things will not impact your experience as a PhD student. You will work hard in graduate school, so it is even more important that you live somewhere you can also relax and have fun. After asking myself these questions, it became clear that School C (UC Irvine!) better fit my personality.
 
-## Making virtual decisions in the time of COVID-19
+# Making virtual decisions in the time of COVID-19
 
 The United States shut down right as my visit to UC Irvine concluded. I was lucky in that I was able to consider most of my options in person and only visited School D virtually. While I only have limited experience with virtual visit days, I certainly experimenced one of the first virtual visit days due to to COVID. Furthermore, I had the unique experience to compare visits immediately before and after COVID changed life in general.  
 

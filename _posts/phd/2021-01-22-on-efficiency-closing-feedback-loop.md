@@ -17,7 +17,7 @@ tags:
 <img src="https://i.ibb.co/gdqzjcH/efficiency-banner.png" alt="efficiency" border="0" width = "100%">
 <!-- Picture borrowed from CITE-->
 
-## Task and human efficiency are not the same
+# Task and human efficiency are not the same
 
 Efficiency in people is a difficult trait to quantify. We know it when we see it and just as easily can point out when we don't. When efficiency is task-centric, such a balancing a budget or developing software, it is relatively straightforward to track progress and measure success. Consider the quality (and perhaps quantity) of the final product, the time it took to complete, and the resources that were needed to complete it. Integrate these three traits together into something like the following (not a real metric), as you have a proxy for true efficiency!
 
@@ -34,7 +34,7 @@ Yet, this is likely never coming. Why? Because efficiency is dynamic and highly 
 
 Indeed, efficiency is largely considered an objective concept best applied to tasks with a common notion of success. The remainder of this article will operate under such an assumption. Yet, it is important to remember that with only 24 hours in a day, everything you do is intertwined by this scarcity. To have relationships, you need time to spend on them. Problems at work have a nasty habit of (at least mentally) following you home in the evening. Thus, becoming more efficient professionally may give you more time to dedicate to things that are not as goal oriented but are arguably more important.
 
-## Efficiency is not the same as effort
+# Efficiency is not the same as effort
 
 Working hard will always be a vital trait in success, personal and professional. However, efficiency and hard work seem to be conflated at times. Certaintly, the two are strongly (and negatively) correlated. The more efficient you are, the less hard work is needed to complete something. This draws up cliches like the "circle - square" image in the header of this article. Yet, a failure to internalize the message remains enormously common. 
 
@@ -42,13 +42,13 @@ For example, when I started as a graduate student, I was offered access to a hig
 
 At first, I simply focused on memorizing these commands so that I would not need to look them up. However, after some frustration with my local internet connectivity (an interruption would close my server session), I decided to look into **aliasing**. Now, with a single command I can spin up my computing environment. Moreover, I installed [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12), an app that prevents your computer from sleeping even if you close your laptop. Instead of spending 3-4 minutes a day exdecuting commands to log in to these servers, I could immediately launch a session and ensure it remained connected for as long as needed.
 
-## What is worth optimizing: Automate the mundane and repetitive
+# What is worth optimizing: Automate the mundane and repetitive
 
 Now, it is worth asking: "Is that really worth the effort?" Only a few minutes of time saved seems like a small gain considering that it took roughly an hour for me to research and automate these tasks. This is true, and an important question to coninually ask yourself. For many, the discussion begins and ends right here. Some things are really not worth optimizing. 
 
 However, approaching your life with an _optimization mindset_ can have surprising advantages. Instead of thinking about how much an optimization might help you today, consider its benefit aggregated over time. After checking my labs server logs (and some estimation), I found I ran my launch commands ~115 times this fall alone. Even with a low estimate of one minute to launch each session, I saved 2 hours of time. Even small tweaks add up!
 
-## Intra- and Inter-task Efficiency
+# Intra- and Inter-task Efficiency
 
 More generally, holistic efficiency can be thought of in two distinct steps: intra- and inter-task efficiency. Think about how you spend your time each day. What activities commonly arise? Do you often work in spreadsheets? Powerpoint? Software? Make a list of these tasks, then consider them in greater detail. What types of commands do you commonly use? Is there any repetition across your work that could be solved with a macro? Hop from one task to the next, and with each consider the bits that are repetitive. You might be surprised at just how much you can automate. After putting in some initial time, you may find your intra-task efficiency improving with your "super user" tricks.
 
@@ -58,7 +58,7 @@ As another personal example, I noticed over the fall that a few tasks tended to 
 
 Sometimes, these productivity traps were not related to other work as much as the characteristics of completing it. I am easily distracted by computers. Sites like [Hacker News](https://news.ycombinator.com/), [Distill](https://distill.pub/), and general Googling can quickly sideline my day.  After noticing this in myself, I did by best to complete all hand-written work first before moving to the computer. Though a small distinction, I found that focusing on and completing even an easy task increased my chances of staying focused on subsequent activities, essentially reaching a state of [flow](https://positivepsychology.com/mihaly-csikszentmihalyi-father-of-flow/). Conversely, if I got distracted in the morning, that trend was more likely to persist through the whole day. Sometimes very subtle differences in your routine can have a cascading effect on your overall efficiency, especially if you perpetuate them.
 
-## Exploration v. Exploitation: You are what (tools) you use
+# Exploration v. Exploitation: You are what (tools) you use
 
 In most of what we do, we encounter the exploration - exploitation trade-off. This is best embodied by the indecision you feel when you go to a restaurant. Do you get something new, or stick with what you know you like? If you explore, you might find something you like even better, but also may be disappointed. Alternatively, by playing it safe you know what to expect but have no idea how much better things could be. This can be extended to relationships, machine learning (especially reinforcement learning), and belies the difficulty in making efficient decisions.
 
@@ -68,7 +68,7 @@ Clearly, exploring your domain for productivity tools is valuable. On one consul
 
 You don't have to work in technology to see why this is a problem. It does not matter how brilliant you are; such a long feedback loop to make progress on a project prohibits efficiency, and unnecessarily so. Source control, pull requests, and virtual desktop development immediately accelerated the productivity of this team. Most situations are not as dramatic as this one, but again, even small improvements like automating your server connection add up over time.
 
-## Coming Up: Why research is so hard to understand
+# Coming Up: Why research is so hard to understand
 
 Keeping a mindset centered around efficiency is valuable, particularly when learning a new skill, which by definition takes time, repetition, and effort. For me, this challenge came in the form of reading and understanding research in my field. The next post will look into this further, specifically discussing why research papers are so difficult to understand and how a change of perspective can help you understand cutting edge technology.
 

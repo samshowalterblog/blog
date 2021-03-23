@@ -17,13 +17,13 @@ tags:
 <!-- Picture borrowed from lifehack-->
 <img src= "https://i.ibb.co/ScmQX7w/child-boy-daily-routine-vector-set-53562-4228.jpg" border="0" width = "100%">
 
-## How do all these geniuses spend their time?
+# How do all these geniuses spend their time?
 
 When I was young, my grandfather took me and the rest of my family to his retirement party. After receiving a PhD in STEM education, he dedicated his life to improving math and science education across Indiana. As we all sat around with refreshments, my grandfather told stories about the incredibly bright students he got to meet through the years and all the good they did in their own careers. At the time, I wasn't interested in his stories as much as these "smart students" themselves. What did they do to get so smart? How did these brainiacs fill their waking hours? 
 
 Now that I am a graduate student myself, I can first tell you that **not all graduate students are smart**, despite what anyone tells you. In fact, as you will see in a later post, being a genius does not necessarily make you a great PhD student (though, admittedly, it helps). Beyond this, I figured it may be useful to outline my own day for anyone that is curious about the routine of a PhD student. Obviously, schedules vary considerably between people, **especially** PhD students who are not bound by a traditional work week. All the same, maybe some parts of the schedule that works for me can help you too. 
 
-## An average Tuesday as a first-year PhD student
+# An average Tuesday as a first-year PhD student
 
 **6:20 a.m.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Wake up
 >  
@@ -101,7 +101,7 @@ Now that I am a graduate student myself, I can first tell you that **not all gra
 > I am sure some PhD student's will gawk at this. No, I don't get to sleep this early every day, but I tend towards being an early riser as opposed to the PhD standard of staying up late. If I have a deadline approaching. I will usually get up a few hours earlier instead of staying up later. Something about that better suits me.
 > 
 
-## Key Takeaways
+# Key Takeaways
 
 This is sort of a trick question. The main takeaway is that **there is nothing special about the routine of a PhD student**, at least when compared to undergraduates and those working a job. I suppose we dedicate more of our time to reading and homework, but that is expected in a program and necessitates achieving world-class expertise. If you view the PhD as a job (which it is) where your duties are to conduct research, it is not all that dissimilar to any other profession.
 
@@ -109,7 +109,7 @@ Now, a benefit of this job is that it is heavily dedicated to learning a diverse
 
 > The daily routine of a PhD student tends to be ordinary, but over time can lead to extraordinary growth.
 
-## Coming Up: Planning your summers as a PhD Student
+# Coming Up: Planning your summers as a PhD Student
 
 One of the best parts of being a PhD student is having free-form summers to (mostly) spend how you wish. Not only does this give you a chance to explore a variety of different positions, it diversifies your research by introducing new topics and people into your life. However, depending on your interests and PhD progress, your summer months may be better spent pursuing industry positions or academic placements. My next post will delve into the details of choosing a summer opportunity that best fits your interests.
 

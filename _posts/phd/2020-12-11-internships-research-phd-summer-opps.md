@@ -17,7 +17,7 @@ tags:
 <img src="https://i.ibb.co/F0S2jk3/internship-academic-industry.jpg" alt="application" border="0" width = "100%">
 <!-- Picture borrowed from CITE-->
 
-## It's all about you
+# It's all about you
 
 As a student, planning your summers should largely be a selfish endeavor. Selfish in the sense that the summer is an opportunity for singular focus: no classes and relatively few other obligations will get in the way of how you choose to spend your time. Considered from this perspective, the question then becomes, how _do you_ want to spend your time? 
 
@@ -38,7 +38,7 @@ With that said, internship opportunities offer similar benefits to graduate stud
 
 Considering the different reasons for pursuing an internship are helpful, but generally not useful until you understand all of the options available. Because of the position's flexibility, there are a few more opportunities that PhD students can pursue over the summer. 
 
-## The traveling researcher
+# The traveling researcher
 
 Over the course of normal research, most people collaborate. This collaboration may be within your group, across different groups at your university, maybe even with companies, government, or other professional organizations. If you find yourself in a position like this, do yourself a favor and get to know your collaborators on a more personal level. You may find that their research interests align with yours and that they would be interested in working on projects together in the future. More than likely, such a position would not require formal applications or interviews, just a clearly stated plan of what you would want to work on over the summer and why it interests you.
 
@@ -46,13 +46,13 @@ Moreover, not two summer opportunities are alike. Beyond working for a well esta
 
 > The freedom to explore your interests in any form is one of the most unique benefits you get as a PhD student.
 
-## An argument for isolation
+# An argument for isolation
 
 The appeal of industry opportunities for many computer science (and likely all STEM) graduate students is hard to resist. Meeting new people, learning the culture and operations of a company, and gaining new skills and ideas offer short and long-term benefits. A new formulation of a concept can break you through an obstacle in your current research, and a working relationship with a company can make finding a job after graduation easier.
 
 However, I have seen several of my friends intentionally opt-out of these opportunities, at least for some summers. Why? Because in some ways an internship is distracting. For students who have carved out their own research subdomain and are passionate about pursuing it, the best summer opportunity is right in front of them. In a slightly less romanticized situation, the summer at least confers a large bank of time to look at problems that you are facing in your work and think about ways around them. This time would be excellent for redefining your research direction or polishing a few publication drafts that have not yet been accepted to conferences. Certainly, there are dozens of papers you have been meaning to read but did not find time for over the academic year. 
 
-## Getting across the finish line: Securing an internship
+# Getting across the finish line: Securing an internship
 
 Another thing to consider when looking for graduate internships is more logistical - actually securing a position. Just because you are in graduate school does not mean that interviews become easier (though the review process is slightly different). The quality and type of internship that you may be able to attain is completely influenced by your professional and academic background, not to mention your current research interests and publication history. 
 
@@ -64,7 +64,7 @@ For students that are more junior in their PhD (such as myself, as of this writi
 
 Now, engineering internships are not a waste of time by any means. On the contrary, they tend to pay as well (sometimes better!) than research opportunities and can give you essential skills to take back to your work in the fall. However, the interviewing process for these positions will be more functional - you will likely be asked to complete coding challenges for at least a few interviews. Preparing for these interviews takes time, so be sure you understand the types of positions you are applying to. Research internships are arguably more competitive positions, but also revolve around the research you do, potentially making it easier to prepare. In any case, be sure to polish your resume and be ready to talk about your interests!
 
-## Failing tenaciously: My approach to securing an internship
+# Failing tenaciously: My approach to securing an internship
 
 As many of us have already experienced, finding and securing an internship is not really an art **or** a science. Rather, it is more like sitting down at a poker table where both the stakes and the skill level of your competitors are unknown. You may understand the rules of the game, but that does not mean you will win big. Even if your skills and past experience are perfect for the position that you are applying for, the company may still pass on you for a variety of reasons. Maybe your anticipated graduate date is too far away, or financially they do not have the funding to support more than a handful of interns. With so many factors of the internship search out of your control, the best thing to do is play the numbers game.
 
@@ -76,11 +76,11 @@ Now, some will argue that tailoring your experiences to the position is importan
 
 Of these 140 applications, I only was called for roughly a dozen interviews. A **dozen**. That is a hit rate of less than 10%! Now, I am certainly not the world's best internship candidate, but I would consider myself to at least be average. To me, this small number of responses was shocking. Therefore, when I did get an interview, I prepared diligently. What could I learn about the company culture? My interviewers? What kind of interview would it be? Eventually, this paid off! I am proud to announce just a few days before this post, after hundreds of hours applying and preparing, I was offered a Machine Learning Research internship with the [Stanford Research Institute (SRI)](https://www.sri.com/)!
 
-## A big thank you
+# A big thank you
 
 When I decided to start a blog, I was not sure if it would be useful for anyone. I ultimately decided to do it anyway, feeling that in the long-term it would at least benefit me and my writing. It makes me very happy to know that this forum has been useful for others, and I hope to continue posting every two weeks through the forseeable future. 
 
-## Coming Up: 
+# Coming Up: 
 
 With the holidays rolling around, my next post will be postponed until January 8, 2021. In the first post of the new year, I plan on writing out a few of the New Year's resolutions I have as PhD student. Moreover, I intend to post more technical blogs about my research and other interesting capabilities of machine learning. If you have a concept or idea you think would be exciting, feel free to send it to me through [my website](https://samshowalter.github.io/#contact).
 

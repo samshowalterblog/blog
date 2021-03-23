@@ -16,13 +16,13 @@ tags:
 <img src="https://i.ibb.co/0qMkcLG/Time-Off.jpg" alt="application" border="0" width = "100%">
 <!-- Picture borrowed from CITE-->
 
-## A dubious proposition
+# A dubious proposition
 
 Picture this: You're a college graduate with a brand new job. Maybe you work for a start up, or a large corporation, or a chic consulting firm downtown. This is your first taste of earning real money and living on your own outside of college. 
 
 One day, someone comes up to you and says: "Hey there! How would you like to cut your earnings in half and work 10+ more hours a week?" Not so appealing? While crude and non-specific, this embodies some of what returning to graduate school is like after spending time in industry. Before you tear up your application, however, hear me out. There are several other reasons why many people (including myself) chose to wait a few years after college to attend graduate school.
 
-## Does timing matter? Dissenting opinions
+# Does timing matter? Dissenting opinions
 
 Timing certainly has _some_ bearing on your success in a PhD program, though how much it will influence you specifically depends on your personality and working style. In general, most recommend enrolling in a PhD program while the concepts you learned in undergrad are relatively fresh in your mind. However, there are many ways to interpret this statement. For those that actively apply their undergraduate classes in their job, it may make sense to actually **wait longer**, allow yourself time to learn from experience and build up your resume. Periodically refreshing the topics you plan to use in graduate school can also bridge this gap (what I did).
 
@@ -36,11 +36,11 @@ To that end, opponents of either strategy usually state something like the follo
 
 Both of these statements are dramatic and never exactly true on a case-by-case basis. Does that mean there is no truth to them at all? **No**, but there will always be reasons to not do something. What is more important is your reason for attending. Let's start there.
 
-## Understanding your passion
+# Understanding your passion
 
 Everyone who is drawn to a PhD has their own unique set of reasons. Perhaps they love learning, or care deeply about pursuing a research career. A PhD is the most specialized degree you can attain, so a deep-seated understanding of your interests is paramount to success in the program. Do you need to know the exact specialty you want to pursue in your PhD before you apply? No, but you should want _a specialty_ and be willing to spend several years attaining it.
 
-## Reframing the adage of the college dropout
+# Reframing the adage of the college dropout
 
 Determining if you want to be specialized is not easy. Many factors can shape your decision. Perhaps you are considering a PhD because:
 - You see specializing as a means for you to attain the career you want
@@ -55,7 +55,7 @@ Why am I mentioning all of this? Because dropping out of a PhD is not the same a
 
 Recognizing that you are not trapped in a PhD is, in my opinion, one of the first things you need to do in order to develop a healthy relationship with (and eventually graduate from) graduate school. PhDs can be very rigorous, isolating, and frustrating, to put it lightly. Realizing that it is your choice to continue allows you to work from a place of passion instead of a fear of failure.
 
-## Weighing the pros and cons
+# Weighing the pros and cons
 
 Let's now list out some of the pros and cons for determining when to enroll in a PhD, starting with **enrolling immediately after undergrad**
 - Pros:
@@ -82,7 +82,7 @@ Now, let's consider **waiting to enroll**. In most cases, people wait between 1-
 
 To different people, each of these lists may grow or shrink; only the most general characteristics of each option are listed. In truth, only you can figure out the perfect route for your specific situation, though hopefully this list gives you a good starting point. Sometimes, it helps to hear someone else explain their logic.
 
-## Waiting for a sign: Why I chose to wait to get my PhD
+# Waiting for a sign: Why I chose to wait to get my PhD
 
 As an undergraduate, I changed majors 3 times. When it comes to academic decisions, I am far from decisive. However, what I lacked in decisiveness I made up with conviction. It took me a long time to find my passion for Machine Learning, but since then my passion remains unchanged.
 
@@ -94,6 +94,6 @@ Moreover, I felt I could improve my candidacy by completing industry projects an
 
 Lastly, I wanted to save up some money and gain a bit of financial freedom in case I found graduate school to be a bad fit. If eventually I found a Master's program better suited my needs (or I was rejected from PhD programs), then I would have a little capital to put towards my tuition, cutting down on any future loans I might take.
 
-## Coming up: The first 3 months - What to expect as a PhD student
+# Coming up: The first 3 months - What to expect as a PhD student
 
 So you have picked a year, chosen your programs, gathered your materials, been accepted, and enrolled in a program. Congratulations! My next post will summarize my first three months as a graduate student. Hopefully, the lessons I learned as a new student can give you an idea of what to expect.

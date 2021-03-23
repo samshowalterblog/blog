@@ -17,7 +17,7 @@ tags:
 <img src="https://i.ibb.co/3WN6CCD/work-life-balance.jpg" alt="application" border="0" width = "100%">
 <!-- Picture borrowed from studentvoices-->
 
-## Striking a balance with imbalance
+# Striking a balance with imbalance
 
 Rounding out your life is never easy, no matter what you do or how old you are. There are only so many hours in the day, and no immediately clear guide on how to spend them beyond your own wants and the advice of others. Moreover, what makes balance particularly complicated for a PhD student is tied to the rigor and culture of the program itself.
 
@@ -27,7 +27,7 @@ Now, this does not mean you won't love your PhD; in fact, many cherish that expe
 
 As [Dr. Matt Might](http://matt.might.net/articles/ways-to-fail-a-phd/) pointed out (if you do not already read his work, follow him), a PhD is no 9-to-5 job. In his own words, a PhD "is a monastic experience", more akin to a "jealous hobby" than a career. To get a PhD, you have to work **hard**, but this does not mean you have to set aside all your other interests and aspirations.
 
-## Selective perfectionism: Learning to satisfice
+# Selective perfectionism: Learning to satisfice
 
 Most of us have heard the word _perfectionist_ before. In fact, if you are reading this I am willing to bet those in your life may have called you a perfectionist before. PhD's tend to attract perfectionists, those that strive for complete excellence in their work. It is this trait that pushes you to excel in your coursework and rise to the challenge of a graduate education. I check all of the boxes above; it was rare that I would start something with the intention of just doing "good enough". To my surprise, this idea of "good enough" called satisficing has become central to my productivity.
 
@@ -39,7 +39,7 @@ Still, perfectionism has its place. If you have cultivated a new domain of resea
 
 Though you do need to maintain a certain GPA to graduate, a PhD is a research degree. To get it, you need to do research, and a lot of it. Spending hours and hours refining your class assignments to get an A instead of an A- likely has less of a marginal return than simply taking the A- and diverting your attention back to research. This is a difficult dance, and I will never tell someone to intentionally do shoddy work, but keeping marginal benefit in mind during a PhD appears quite important for a timely graduation.
 
-## Making ends meet: Living on a student's budget
+# Making ends meet: Living on a student's budget
 
 The finances of a PhD student are a fascinating collision between corporate budgeting and academic subsidy. Universities are businesses, and to some extent every lab is its own independent organization. Instead of working a 9-to-5 your advisor will likely fund their lab by hunting for grants. The money they receive then subsidizes the expenses of some or all of their students. If the professor does not snag enough grant money, their students will have to support themselves as teaching assistants. Stipend's vary from student to student and across programs, but suffice it to say, you will not be making very much.
 
@@ -61,7 +61,7 @@ Now, before I continue I want to note my privilege. Not many schools offer campu
 
 In order to keep track of your spending, I recommend creating a budget spreadsheet. This is an easy and fairly painless way to make sure you are tracking all of the money you are spending. When I first started doing this, I was shocked at how everything added up. It is far too easy to overspend without even noticing, so do yourself a favor and track your receipts. Data will tell you (bluntly) how frugal you truly are.
 
-## Relationships and Support Systems
+# Relationships and Support Systems
 
 Beyond school, money, and research, it is important to keep time for cultivating and maintaining a social support system. I myself did not fully understand the importance of this until I started my PhD. To put it lightly, there will be days that are highly discouraging. You will make frequent and sometimes very costly mistakes. This happens to everyone and is part of the process, but that doesn't mean it is not discouraging or taxing emotionally.
 
@@ -69,12 +69,12 @@ On those days where it feels things have been going poorly since you woke up, it
 
 > Remember, work will still be there, and it will never ask you out to lunch 
 
-## The bottom line: Your health
+# The bottom line: Your health
 
 A PhD is rarely easy, but nothing will make it more difficult than poor health. Sometimes it can be easy to forget about taking care of the small things as we rush around as busy students (this goes for undergrads as well). What you eat, how much you sleep, and the type of activities you do throughout the day add up, for better or worse. Do yourself a favor, and try and keep yourself tied to a **routine**. Perhaps walking before dinner, while you chew on some ideas you have for research, fits nicely with your schedule. Maybe getting a bike ride or a gym session in before class is more your thing. Regardless, don't neglect yourself. A PhD will come and go, but your health sticks with you always.
 
 To that end, do not just consider the physical aspect of your health. Mental health is arguably the most important aspect of having a well balanced life. As mentioned in the section above, when you are struggling, lean into your relationships. If you do not feel comfortable doing that, find a new outlet to discuss what you are going through. Many universities offer a variety of mental health and wellness services, so take advantage of them! No degree is worth your happiness.
 
-## Coming Up: A Day in the Life of a First-year PhD Student
+# Coming Up: A Day in the Life of a First-year PhD Student
 
 By the time I had applied to PhD programs, I had a huge bank of knowledge about programs across the country. Surprisingly, I still had little intuition for what a PhD student's life is like day-to-day. In order to fill this gap, I will be publishing a rough timeline of how my time is spent on a daily basis.
