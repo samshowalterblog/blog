@@ -1068,7 +1068,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     -webkit-animation: auto;
     animation: fade-in;
     animation-duration: .5s;
-    border-bottom: 1px dashed #d1d3d6;
+    /*border-bottom: 1px dashed #d1d3d6;*/
 }
 
 .post-header-thumb-title {
