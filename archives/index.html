@@ -19,7 +19,7 @@ description: "Catalogue of old blog posts"
                   <a href="{{ site.url }}{{ post.url }}" title="{{  post.title }}">
                   <div class="showalter-blog-title">
                      {{ post.category }}
-                  </div>
+                  </div></a>
                   <div class="item-label">
                      <div class="item-title">
                         {{ post.title }}
@@ -29,7 +29,7 @@ description: "Catalogue of old blog posts"
                            {{ post.date | date: "%F"}}
                         </div>
                      </div>
-                  </div></a>
+                  </div>
                </div>
             </div>
             {% if forloop.last %}
