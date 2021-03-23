@@ -735,7 +735,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     -webkit-animation: fade-in .5s;
     animation: fade-in;
     animation-duration: .5s;
-    width: 65%; 
+    width: 60%; 
     /*used to be 65%*/
 }
 
