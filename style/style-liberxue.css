@@ -2193,12 +2193,6 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
         /*used to be 65%*/
         margin: 0 auto;
     }
-    .main-content-blog {
-
-        width: 65%; 
-        /*used to be 65%*/
-        margin: 0 auto;
-    }
 
     .footer-meta .meta-item {
         padding: 0 20px;
