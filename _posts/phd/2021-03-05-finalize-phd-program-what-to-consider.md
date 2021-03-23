@@ -18,7 +18,7 @@ tags:
 <!-- Picture borrowed from CITE-->
 
 
-# Its not just about research anymore
+# It's not just about research anymore
 
 If you follow this blog, you know it was created to shed light on life as a PhD applicant and student. Though some of my recent posts have evolved into general dicussions applicable to a broad audience, this one will be more targeted. Right now, PhD applicants from across the country are in the proces of hearing back from schools. Ideally, at least one response will be an acceptance. **If this describes you, congratulations!** The rest of this post is for you, and will include tips on making your final decision.
 
