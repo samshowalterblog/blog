@@ -730,6 +730,14 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     width: 90%; 
     /*used to be 65%*/
 }
+.main-content-blog {
+    position: relative;
+    -webkit-animation: fade-in .5s;
+    animation: fade-in;
+    animation-duration: .5s;
+    width: 65%; 
+    /*used to be 65%*/
+}
 
 .index-page {
     padding: 120px 20px 0;
@@ -2176,6 +2184,12 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     .main-content {
 
         width: 90%; 
+        /*used to be 65%*/
+        margin: 0 auto;
+    }
+    .main-content-blog {
+
+        width: 65%; 
         /*used to be 65%*/
         margin: 0 auto;
     }

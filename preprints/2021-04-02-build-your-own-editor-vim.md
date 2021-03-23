@@ -30,7 +30,20 @@ For years, I worked primarily with Sublime Text editing. Though Sublime's initia
 
 Yet, as I started graduate school I noticed that I would repeat many of the same commands to complete just one assignment. As an example, if I needed to build a predictive model, the overhead I suffered to debug it grew as I progressed in the project. If I was nearing completion, I might need to run several build up steps to even test what I was currently working on. This migh take only a minute, but I noticed that in many cases I would need to re-run this step several times to debug my code completely.
 
-With time, I wised up and started storing intermediate steps in Jupyter notebooks, porting out features only when I was fairly certain they would accomplish what I intended. Yet, this led to lots of clicking back and forth between Jupyter and Sublime, straining my hands and slowing me down.
+With time, I wised up and started storing intermediate steps in Jupyter notebooks, porting out features only when I was fairly certain they would accomplish what I intended. Yet, this led to lots of clicking back and forth between Jupyter and Sublime, straining my hands and slowing me down. In some cases, I was now jumping between three and four different IDEs - Jupyter, Sublime, Overleaf for LaTeX documents, and the command line to push my changes to a Github repository. All of these different environments made me very good at `CONTROL-TAB` for switching windows, but regardless I felt that I was spending way too much time hopping and sharing items between IDEs. Eventually, I began to search around to see if there was anything that would allow me to accomplish all of these tasks from the same window.
+
+## Don't mourn the death of your mouse
+
+At first, a tool that integrated several of my IDEs together seemed unlikely, especially considering I had never heard of one after working in technology for a handful of years. Perusing the internet led to many different approaches to this problem. Some people attempted to created custom scripts that made the handoff between these environments easier. Others took advantage of plugins (of varying quality, in my experience) to try and jam functionality into their development environment of choice. Most intriguing of all, however, was the sheer number of posts that recommended using Vim, a text editing tool with origins nearly as old as computing itself. Though there are many things that make Vim unique from other systems, perhaps it's most defining trait is its use of compositional keymappings built to replace the need for a mouse. Compositional keymappings is a mouthful - a simple way of thinking about this is applying an action, or `verb`, to an object or `motion`, to use Vim-speak. For example, the verb for delete in Vim is `d` and the motion to move down a line is `j`. So, if you wanted to delete your current line and the one below it, you would just type `d2j`.
+
+I had heard of Vim before, but always thought it was for old-school programmers who got their start with systems that did not have a mouse. Plus, I just couldn't understand how someone could be more productive without the use of a mouse. However, then I noticed there were several graduate students who were also using Vim for their development. In particular, one labmate explained quite simply the idea of Vim - **Never leave the home row**. 
+
+Though it seems like a flash, the time it takes you to move your hand to the mouse and back to thkeys adds up for most people who work on a computer all day. Giving the keyboard the expressivity to accomplish everything and mouse can (and more!) makes you faster as well as more precise and efficient.
+
+## Climbing Vim's learning curve 
+
+Unfortunately, this efficiency does not necessarily come cheap. Among editors, the learning curve to work in Vim is one of the steepest, primarily because it removes the need for a mouse entirely. Moreover, 
+
 
 ## What you get for giving up your mouse 
 
