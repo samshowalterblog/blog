@@ -2307,8 +2307,8 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
         padding: 80px 0 0;
     }
 
-    h1 { font-size: 28px; }
-    h2 { font-size: 18px; }
+    h1 { font-size: 18px; }
+    h2 { font-size: 16px; }
     h3 { font-size: 14px; }
     h4 { font-size: 12px; }
 
