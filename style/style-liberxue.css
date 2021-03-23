@@ -2189,6 +2189,12 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     }
     .main-content-blog {
 
+        width: 90%; 
+        /*used to be 65%*/
+        margin: 0 auto;
+    }
+    .main-content-blog {
+
         width: 65%; 
         /*used to be 65%*/
         margin: 0 auto;
@@ -2393,6 +2399,10 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     }
 
     .main-content {
+        width: 90%; 
+        margin: 0 auto;
+    }
+    .main-content-blog {
         width: 90%; 
         margin: 0 auto;
     }
