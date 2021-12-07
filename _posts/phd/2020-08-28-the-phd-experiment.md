@@ -2,7 +2,7 @@
 layout: blog
 istop: false
 title: "The PhD Experiment"
-background-image: style/images/graduation.jpg
+background-image: ../../../style/images/graduation.jpg
 cite: 
 date:  2020-08-28
 category: PhD
@@ -26,7 +26,7 @@ tags:
 <!-- --------------------------------------------------------------------------------- -->
 
 <figure>
-    <img src="style/images/ml.jpg" alt="ml" border="0" width = "100%">
+    <img src="../../../style/images/ml.jpg" alt="ml" border="0" width = "100%">
 <!--     <figcaption><a href=https://www.blackline.com/blog/finance-automation/machine-learning-experts/>Image source</a></figcaption> -->
 </figure>
 
