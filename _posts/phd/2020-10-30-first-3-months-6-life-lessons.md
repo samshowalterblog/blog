@@ -2,7 +2,7 @@
 layout: blog
 istop: false
 title: "The 6 Life Lessons I Learned During My First Three Months as a PhD Student"
-background-image: "https://i.ibb.co/mTqZZLp/uci-first-month.jpg"
+background-image: "../../../style/images/uci-first-month.jpg"
 date:  2020-10-30
 category: PhD
 cite: https:/www.ics.uci.edu
@@ -15,7 +15,7 @@ tags:
 - Graduate School
 ---
 
-<img src="https://i.ibb.co/mTqZZLp/uci-first-month.jpg" alt="application" border="0" width = "100%">
+<img src="../../../style/images/uci-first-month.jpg" alt="application" border="0" width = "100%">
 <!-- Picture borrowed from UCI-->
 
 # 1. Keep your head above water: The initial adjustment to graduate school

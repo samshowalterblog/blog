@@ -2,7 +2,7 @@
 layout: blog
 istop: false
 title: "The PhD Experiment"
-background-image: ../../../style/images/graduation.jpg
+background-image: "../../../style/images/graduation.jpg"
 cite: 
 date:  2020-08-28
 category: PhD

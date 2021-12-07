@@ -2,7 +2,7 @@
 layout: blog
 istop: false
 title: "Goals or behaviors? A critical look at New Year's resolutions"
-background-image: "https://i.ibb.co/Vj31Jx3/resolutions.jpg"
+background-image: "../../../style/images/resolutions.jpg"
 date:  2021-01-08
 category: PhD
 cite: https://www.eightieskids.com/sylvester-stallones-40-years-of-rocky-documentary-will-premiere-online-this-month/
@@ -13,7 +13,7 @@ tags:
 - Resolutions
 ---
 
-<img src="https://i.ibb.co/s9KQrGq/rocky.jpg" alt="application" border="0" width = "100%">
+<img src="../../../style/images/rocky.jpg" alt="application" border="0" width = "100%">
 <!-- Picture borrowed from CITE-->
 
 # Why resolutions? The power of a mental fresh start

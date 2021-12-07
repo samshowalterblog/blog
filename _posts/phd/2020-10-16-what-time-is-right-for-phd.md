@@ -2,7 +2,7 @@
 layout: blog
 istop: false
 title: "What time is right? Deciding when to go to graduate school"
-background-image: "https://i.ibb.co/0qMkcLG/Time-Off.jpg"
+background-image: "../../../style/images/Time-Off.jpg"
 date:  2020-10-16
 category: PhD
 cite: https://studybreaks.com/college/time-off-graduate-school/
@@ -13,7 +13,7 @@ tags:
 - Application 
 ---
 
-<img src="https://i.ibb.co/0qMkcLG/Time-Off.jpg" alt="application" border="0" width = "100%">
+<img src="../../../style/images/Time-Off.jpg" alt="application" border="0" width = "100%">
 <!-- Picture borrowed from CITE-->
 
 # A dubious proposition

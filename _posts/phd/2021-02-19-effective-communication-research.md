@@ -2,7 +2,7 @@
 layout: blog
 istop: false
 title: "Present ideas like they're for sale: The role of communication in research and innovation"
-background-image: "https://i.ibb.co/z6VMGnn/technical-diagram.gif"
+background-image: "../../../style/images/technical-diagram.gif"
 date:  2021-02-19
 category: PhD
 cite: https://www.science20.com/news_articles/project_mercury_inside_cocoon-78692
@@ -13,7 +13,7 @@ tags:
 - Innovation
 ---
 
-<img src="https://i.ibb.co/z6VMGnn/technical-diagram.gif" alt="ml_theory" border="0" width = "100%">
+<img src="../../../style/images/technical-diagram.gif" alt="ml_theory" border="0" width = "100%">
 <!-- Picture borrowed from CITE-->
 (Diagram from [NASA Project Mercury](https://www.science20.com/news_articles/project_mercury_inside_cocoon-78692))
 # Poor communication is the killer of good ideas 

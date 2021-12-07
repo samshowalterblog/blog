@@ -2,7 +2,7 @@
 layout: blog
 istop: false
 title: "Imposter Syndrome and PhD Applications: What to Know"
-background-image: "https://i.ibb.co/ZhYL0r2/app.jpg"
+background-image: "../../../style/images/app.jpg"
 date:  2020-09-18
 cite: 
 category: PhD
@@ -15,7 +15,7 @@ tags:
 - Imposter Syndrome
 ---
 
-<img src="https://i.ibb.co/ZhYL0r2/app.jpg" alt="application" border="0" width = "100%">
+<img src="../../../style/images/app.jpg" alt="application" border="0" width = "100%">
 <!-- Picture borrowed from Getty Images-->
 
 # The PhD

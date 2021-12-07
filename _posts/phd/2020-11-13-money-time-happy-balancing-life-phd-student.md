@@ -2,7 +2,7 @@
 layout: blog
 istop: false
 title: "Money, Time, and Relationships: Balancing life as a PhD student"
-background-image: "https://i.ibb.co/3WN6CCD/work-life-balance.jpg"
+background-image: "../../../style/images/work-life-balance.jpg"
 date:  2020-11-13
 category: PhD
 cite: https://mystudentvoices.com/decoding-work-life-balance-4bdcdc037073
@@ -14,7 +14,7 @@ tags:
 - Work-life Balance 
 ---
 
-<img src="https://i.ibb.co/3WN6CCD/work-life-balance.jpg" alt="application" border="0" width = "100%">
+<img src="../../../style/images/work-life-balance.jpg" alt="application" border="0" width = "100%">
 <!-- Picture borrowed from studentvoices-->
 
 # Striking a balance with imbalance
