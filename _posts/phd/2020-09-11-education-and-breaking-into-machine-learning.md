@@ -2,7 +2,7 @@
 layout: blog
 istop: false
 title: "Education and breaking into Machine Learning"
-background-image: https://i.ibb.co/xY2vx3Y/ml-graduate-school.png
+background-image: "../../../style/images/ml-graduate-school.png"
 date:  2020-09-04
 cite:
 category: PhD
@@ -15,7 +15,7 @@ tags:
 - Imposter Syndrome
 ---
 
-<img src="https://i.ibb.co/xY2vx3Y/ml-graduate-school.png" alt="education-ml" border="0" width = "100%">
+<img src="../../../style/images/ml-graduate-school.png" alt="education-ml" border="0" width = "100%">
 <!-- Picture borrowed from GeeksforGeeks.com -->
 
 <!-- Started at 442 page views -->

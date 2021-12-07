@@ -2,7 +2,7 @@
 layout: blog
 istop: false
 title: "Squeezing hours: The daily routine of a Machine Learning PhD student"
-background-image: "https://i.ibb.co/ScmQX7w/child-boy-daily-routine-vector-set-53562-4228.jpg" 
+background-image: "../../../style/images/child-boy-daily-routine-vector-set-53562-4228.jpg" 
 date:  2020-11-27
 category: PhD
 cite: https://www.freepik.com/premium-vector/child-boy-daily-routine-vector-set_4149160.htm
@@ -15,7 +15,7 @@ tags:
 ---
 
 <!-- Picture borrowed from lifehack-->
-<img src= "https://i.ibb.co/ScmQX7w/child-boy-daily-routine-vector-set-53562-4228.jpg" border="0" width = "100%">
+<img src= "../../../style/images/child-boy-daily-routine-vector-set-53562-4228.jpg" border="0" width = "100%">
 
 # How do all these geniuses spend their time?
 

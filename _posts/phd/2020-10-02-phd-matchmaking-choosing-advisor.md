@@ -2,7 +2,7 @@
 layout: blog
 istop: false
 title: "Graduate Matchmaking: Choosing a PhD Program and Advisor"
-background-image: "https://i.ibb.co/kHx3BzT/matchmaking.jpg"
+background-image: "../../../style/images/matchmaking.jpg"
 date:  2020-10-02
 category: PhD
 cite: https://www.awardstaffing.com/use-matchmaking-to-find-the-perfect-employee/
@@ -15,7 +15,7 @@ tags:
 - Machine Learning
 ---
 
-<img src="https://i.ibb.co/kHx3BzT/matchmaking.jpg" alt="phd" border="0" width = "100%">
+<img src="../../../style/images/matchmaking.jpg" alt="phd" border="0" width = "100%">
 
 # Choosing a PhD Program: Lessons learned as an undergraduate
 

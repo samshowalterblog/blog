@@ -2,7 +2,7 @@
 layout: blog
 istop: false
 title: "Notation and Formality: Thoughts on why research publications are confusing"
-background-image: "https://i.ibb.co/bRkLHwP/slope.jpg"
+background-image: "../../../style/images/slope.jpg"
 date:  2021-02-05
 category: PhD
 cite: 
@@ -14,7 +14,7 @@ tags:
 - Self-learning
 ---
 
-<img src="https://i.ibb.co/bRkLHwP/slope.jpg"  alt="notation_spec_theta0" border="0" width = "100%">
+<img src="../../../style/images/slope.jpg"  alt="notation_spec_theta0" border="0" width = "100%">
 <!-- Picture borrowed from CITE-->
 
 # Who teaches the teachers? A perspective on formalized education

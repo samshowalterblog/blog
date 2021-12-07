@@ -2,7 +2,7 @@
 layout: blog
 istop: true
 title: "Interviews, acceptances, and (virtual) visit days: What to ask as you finalize your PhD program"
-background-image: "https://i.ibb.co/djntXHv/choosedoor-16x9.jpg"
+background-image: "../../../style/images/choosedoor-16x9.jpg"
 date:  2021-03-05
 category: PhD
 cite: https://www.sciencemag.org/careers/2018/09/how-find-right-place-your-phd-or-postdoc
@@ -14,7 +14,7 @@ tags:
 - Visit Day
 ---
 
-<img src="https://i.ibb.co/djntXHv/choosedoor-16x9.jpg" alt="choosing_phd_after_accept" border="0" width = "100%">
+<img src="../../../style/images/choosedoor-16x9.jpg" alt="choosing_phd_after_accept" border="0" width = "100%">
 <!-- Picture borrowed from CITE-->
 
 
